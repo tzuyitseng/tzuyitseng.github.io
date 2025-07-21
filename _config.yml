@@ -22,6 +22,7 @@ baseurl: ""
 
 # Name of website
 title: Tzuyi Tseng
+description: Cognitive-neurolinguist
 
 # Your name to show in the footer
 author: Tzuyi Tseng
@@ -61,10 +62,10 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "tzuyitseng.neuroling@gmail.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+#  rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  facebook: deanattali
   github: tzuyitseng
-  bluesky: tzuyitseng
+  bluesky: tzuyitseng.bsky.social
 #  patreon: DeanAttali
 #  youtube: "@daattali"
 #  whatsapp: 15551212
@@ -96,7 +97,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+# rss-description: This website is a virtual proof that I'm awesome
 
 ###########################
 # --- General options --- #
@@ -104,6 +105,9 @@ rss-description: This website is a virtual proof that I'm awesome
 
 # Select which social network share links to show in posts
 share-links-active:
+  email: true
+  github: true
+  bluesky: true
   twitter: false
   facebook: false
   linkedin: false
@@ -270,7 +274,7 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "Europe/Paris"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
