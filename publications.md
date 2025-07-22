@@ -9,7 +9,7 @@ permalink: /publications/
   border: none;
   height: 1px;
   background: linear-gradient(to right, transparent, #A19F8A, transparent);
-  margin: 10px 0;
+  margin: 8px 0;
 }
 
 h2 {
@@ -94,7 +94,7 @@ h4 {
   </div>
 </div>
 
-<br><br>
+<br>
 
 ## Theses
 <hr class="gradient-divider" />
@@ -146,7 +146,7 @@ function toggleAbstract(button) {
 }
 </script>
 
-<br><br>
+<br>
 
 ## Conferences
 <hr class="gradient-divider" />
