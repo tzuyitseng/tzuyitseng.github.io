@@ -159,7 +159,7 @@ page-col: "#FAFAF5" #F7F2EC
 text-col: "#223030"
 link-col: "#959D90"
 hover-col: "#CFBEB6"
-navbar-col: "#ECE9E0"
+navbar-col: "#ECE9E0" # E8D9CD
 navbar-text-col: "#1F4959" #273B09
 navbar-border-col: "#D9D1BE"
 footer-col: "#D9D1BE"
