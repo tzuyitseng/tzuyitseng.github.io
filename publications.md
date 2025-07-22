@@ -7,9 +7,9 @@ permalink: /publications/
 <style>
 .gradient-divider {
   border: none;
-  height: 1px;
+  height: 1.5px;
   background: linear-gradient(to right, transparent, #A19F8A, transparent);
-  margin: 8px 0;
+  margin: 6px 0;
 }
 
 h2 {
@@ -93,7 +93,6 @@ h4 {
     The present study aims to provide an outline of lexical networks between sounds and meanings in Taiwan Mandarin. Both the phonological and semantic relations are explored by a free word association task. Previous research has demonstrated a significant influence of phonology on Indo-European networks and suggested the influence of semantics on languages with lexicography such as Mandarin. With a new methodology in which word frequency, syllable type, syllable structure, tone structure, imageability, and parts of speech are carefully considered for the experimental stimuli, a total of 248 responses were collected from six Taiwan Mandarin native speakers. The results of lexical associations suggest that: 1) semantic relations show a stronger connection than phonological ones in Taiwan Mandarin networks; 2) rhymes present a stronger influence on associations than initial segments. The understanding of lexical organization in the human brain may contribute to further research on functions of associations and networks between human and artificial intelligence.
   </div>
 </div>
-
 <br>
 
 ## Theses
@@ -145,7 +144,6 @@ function toggleAbstract(button) {
     : 'none';
 }
 </script>
-
 <br>
 
 ## Conferences
