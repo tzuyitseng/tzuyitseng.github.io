@@ -6,34 +6,24 @@ use-site-title: true
 
 <style>
 .fancy-divider {
-  position: relative;
+  display: flex;
+  align-items: center;
   margin: 30px 0;
-  text-align: center;
+  gap: 12px; /* space between line and flower */
 }
+
 .fancy-divider hr {
+  flex-grow: 1;
   border: none;
   height: 1.5px;
   background: linear-gradient(to right, transparent, #A19F8A, transparent);
   margin: 0;
 }
-.fancy-divider .fancy-text {
-  position: absolute;
-  top: -1.8em;
-  left: 50%;
-  transform: translateX(-50%);
-  background: white;
-  padding: 0 8px;
-  user-select: none;
-  font-size: 1.3em;
-}
-.fancy-divider .fancy-text .tilde {
-  font-weight: bold;
-  color: #A19F8A;
-}
-.fancy-divider .fancy-text .flower {
-  font-weight: normal;
+
+.fancy-divider .flower {
   color: #CFBEB6;
-  padding: 0 0.15em;
+  font-size: 1.5em;
+  user-select: none;
 }
 </style>
 
@@ -42,25 +32,18 @@ use-site-title: true
 
 <div class="fancy-divider">
   <hr>
-  <div class="fancy-text">
-    <span class="tilde">~</span><span class="tilde">~</span>
-    <span class="flower">✿</span>
-    <span class="tilde">~</span><span class="tilde">~</span>
-  </div>
+  <span class="flower">✿</span>
+  <hr>
 </div>
 
-<br>
 I am a cognitive-neurolinguist, interested in how language is represented in the human brain and mind across languages. 
 My research focuses on understanding how speech sounds, word meanings and emotional cues are encoded and decoded during speech processing,
 and how our native language influences the way we hear, understand, and learn a foreign language.<br>
 
 <div class="fancy-divider">
   <hr>
-  <div class="fancy-text">
-    <span class="tilde">~</span><span class="tilde">~</span>
-    <span class="flower">✿</span>
-    <span class="tilde">~</span><span class="tilde">~</span>
-  </div>
+  <span class="flower">✿</span>
+  <hr>
 </div>
 
 <br>
