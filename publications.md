@@ -18,13 +18,13 @@ h2 {
 }
 
 h4 {
-  color: #D9D1BE; /*8A8A70 523D35*/
+  color: #BBA58F; /*8A8A70 523D35*/
 }
 
 .button-group {
   display: flex;
   gap: 0.5em;
-  margin-top: 0.5em;
+  margin-top: 0;
 }
 
 .link-btn {
@@ -52,8 +52,16 @@ h4 {
 *In preparation*  
 <u>Tseng, T.</u>, Thibault, S., Krzonowski, J., Canault, M., Roy, A. C., Brozzoli, C., & Boulenger, V. <B>Decoding articulatory phonetic features: somatotopic and sensorimotor representations in native and non-native phoneme perception.</B>
 
-*Under revision*  
-<u>Tseng, T.</u>, Krzonowski, J., Brozzoli, C., Roy, A. C., & Boulenger, V. <B>Embodied speech: sensorimotor contributions to native and non-native language processing and learning.</B> *Neurobiology of Language.* 
+<p><em>Under revision</em><br>
+<u>Tseng, T.</u>, Krzonowski, J., Brozzoli, C., Roy, A. C., & Boulenger, V. <b>Embodied speech: sensorimotor contributions to native and non-native language processing and learning.</b> <em>Neurobiology of Language.</em></p>
+
+<div class="button-group">
+  <button class="link-btn" onclick="toggleAbstract(this)">ABS</button>
+  <a href="https://doi.org/10.31234/osf.io/fqwe8" target="_blank">
+    <button class="link-btn">PDF</button>
+  </a>
+</div>
+
 <div class="button-group">
   <button class="link-btn" onclick="toggleAbstract(this)">ABS</button>
   <a href="https://doi.org/10.31234/osf.io/fqwe8" target="_blank">
