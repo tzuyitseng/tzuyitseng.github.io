@@ -447,7 +447,7 @@ footer .list-inline .list-inline-item {
   margin-bottom: 0.5rem;
 }
 footer .copyright {
-  font-family: var(--header-font);
+  font-family: "Times New Roman", Times, serif;
   text-align: center;
   margin-bottom: 0;
   margin-top: 0;
@@ -467,13 +467,13 @@ footer .footer-custom-content {
     padding: 3.125rem 0;
   }
   footer .footer-links {
-    font-size: 1.125rem;
+    font-size: 0.95rem;
   }
   footer .copyright {
-    font-size: 1rem;
+    font-size: 0.95rem;
   }
   footer .footer-custom-content {
-    font-size: 1rem;
+    font-size: 0.95rem;
   }
 }
 
