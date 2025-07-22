@@ -18,7 +18,7 @@ h2 {
 }
 
 h4 {
-  color: #BBA58F; /*8A8A70 523D35*/
+  color: #D9D1BE; /*8A8A70*/
 }
 
 .button-group {
@@ -37,6 +37,7 @@ h4 {
 }
 
 .abstract-box {
+  color: #523D35;
   margin-top: 0.5em;
   padding: 0.6em;
   border: 1px solid #CFBEB6;
@@ -52,27 +53,23 @@ h4 {
 *In preparation*  
 <u>Tseng, T.</u>, Thibault, S., Krzonowski, J., Canault, M., Roy, A. C., Brozzoli, C., & Boulenger, V. <B>Decoding articulatory phonetic features: somatotopic and sensorimotor representations in native and non-native phoneme perception.</B>
 
-<p><em>Under revision</em><br>
-<u>Tseng, T.</u>, Krzonowski, J., Brozzoli, C., Roy, A. C., & Boulenger, V. <b>Embodied speech: sensorimotor contributions to native and non-native language processing and learning.</b> <em>Neurobiology of Language.</em></p>
-
+*Under revision*
+<u>Tseng, T.</u>, Krzonowski, J., Brozzoli, C., Roy, A. C., & Boulenger, V. <b>Embodied speech: sensorimotor contributions to native and non-native language processing and learning.</b> *Neurobiology of Language.*
 <div class="button-group">
   <button class="link-btn" onclick="toggleAbstract(this)">ABS</button>
   <a href="https://doi.org/10.31234/osf.io/fqwe8" target="_blank">
     <button class="link-btn">PDF</button>
   </a>
 </div>
-
 <div class="button-group">
   <button class="link-btn" onclick="toggleAbstract(this)">ABS</button>
   <a href="https://doi.org/10.31234/osf.io/fqwe8" target="_blank">
     <button class="link-btn">PDF</button>
   </a>
 </div>
-
 <div class="abstract-box">
   Learning to recognize and produce foreign speech sounds can be challenging, particularly when only subtle differences distinguish these new sounds from phonemes in the native language. Functional neuroimaging evidence shows that the motor cortex is involved in speech production and in perceptual phonemic processing. This highlights the embodied nature of speech perception, predicting the potential benefits of sensorimotor-based training approaches to enhance the acquisition of foreign speech sounds. Hence, here we first review current findings on the motor contribution to not only native but also non-native phoneme perception. Available evidence has established that motor cortical activity especially shows up under non-optimal perceptual conditions, such as when native phonemes are degraded by noise or when listeners perceive non-native speech sounds. Drawing upon this evidence, we then review training paradigms that have been developed for learning foreign phonemes, with a special emphasis on those embedding manual gestures as cues to represent phonetic features of the to-be-learned speech sounds. By pointing to both strengths and caveats of available studies, this review allows us to delineate a clear framework and opens perspectives to optimize foreign phoneme learning, and ultimately support perception and production.
 </div>
-
 <script>
 function toggleAbstract(button) {
   const abstractBox = button.closest('div').nextElementSibling;
@@ -89,8 +86,7 @@ function toggleAbstract(button) {
 
 
 ## Theses
-
----
+<hr class="gradient-divider" />
 
 **2025**  
 <u>Tseng, T.</u> <B>Sensorimotor Representations for Native and Non-native Phoneme Perception.</B> Doctoral Thesis, Université Lumière Lyon 2, France. [Link](https://hal.science/tel-04988192)
@@ -101,8 +97,7 @@ function toggleAbstract(button) {
 
 
 ## Conferences
-
----
+<hr class="gradient-divider" />
 
 #### Oral presentations
 
