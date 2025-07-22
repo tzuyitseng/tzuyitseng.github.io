@@ -1,4 +1,20 @@
 <footer>
+  <style>
+    .footer-info {
+      display: flex;
+      justify-content: center; /* center horizontally */
+      align-items: center;     /* align vertically */
+      gap: 1.5rem;             /* spacing between text blocks */
+      flex-wrap: wrap;         /* wrap on very narrow screens */
+      margin-top: 1rem;
+      font-size: 0.9em;
+      color: #A19F8A; /* match your footer text color */
+    }
+
+    .footer-info p {
+      margin: 0;               /* remove default margin */
+    }
+  </style>
   <div class="container-md beautiful-jekyll-footer">
     <div class="row">
       <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
@@ -10,37 +26,23 @@
             {% endfor %}
           </div>
         {% endif %}
-        <p class="copyright text-muted">
-          &copy; {{ site.time | date: '%Y' }} Tzuyi Tseng
-        </p>
-        <p class="last-updated text-muted">
-          Last updated: {{ site.time | date: "%B %d, %Y" }}
-        </p>
-
-        {% if site.url-pretty %}
-          <p class="author-site">
-            <a href="{% if site.url-canonical %}{{ site.url-canonical }}{% else %}{{ '/' | absolute_url }}{% endif %}">{{ site.url-pretty }}</a>
+        <div class="footer-info">
+          <p class="copyright">
+            {% if site.author %}
+              &copy; {{ site.time | date: '%Y' }} {{ site.author }}
+            {% else %}
+              &copy; {{ site.time | date: '%Y' }}
+            {% endif %}
           </p>
-        {% endif %}
-
-        {% if site.matomo and site.matomo.opt-out %}
-          <p>
-            <a href="http://{{- site.matomo.uri -}}/index.php?module=CoreAdminHome&action=optOut" target="_blank" class="text_muted">Do-not-Track</a>
+          {% if site.url-pretty %}
+            <p class="author-site">
+              <a href="{% if site.url-canonical %}{{ site.url-canonical }}{% else %}{{ '/' | absolute_url }}{% endif %}">{{ site.url-pretty }}</a>
+            </p>
+          {% endif %}
+          <p class="theme-by">
+            Powered by <a href="https://beautifuljekyll.com">Beautiful Jekyll</a>
           </p>
-        {% endif %}
-
-        {% if site.edit_page_button and site.github.repository_url %}
-          <p>
-            <a title="Edit this page on GitHub" href="{{ site.github.repository_url }}/edit/{{ site.github.source.branch }}/{{ page.path }}" class="text_muted">Edit page</a>
-          </p>
-        {% endif %}
-
-        {% unless site.remove-ads %}
-          <p class="theme-by text-muted">
-            Powered by
-            <a href="https://beautifuljekyll.com">Beautiful Jekyll</a>
-          </p>
-        {% endunless %}
+        </div>
       </div>
     </div>
   </div>
