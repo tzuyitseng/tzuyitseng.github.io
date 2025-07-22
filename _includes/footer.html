@@ -9,10 +9,10 @@
       margin-top: 1rem;
       font-size: 0.9em;
       color: #A19F8A; /* match your footer text color */
+      text-align: center;
     }
-
     .footer-info p {
-      margin: 0;               /* remove default margin */
+      margin: 0;
     }
   </style>
   <div class="container-md beautiful-jekyll-footer">
@@ -27,20 +27,10 @@
           </div>
         {% endif %}
         <div class="footer-info">
-          <p class="copyright">
-            {% if site.author %}
-              &copy; {{ site.time | date: '%Y' }} {{ site.author }}
-            {% else %}
-              &copy; {{ site.time | date: '%Y' }}
-            {% endif %}
-          </p>
-          {% if site.url-pretty %}
-            <p class="author-site">
-              <a href="{% if site.url-canonical %}{{ site.url-canonical }}{% else %}{{ '/' | absolute_url }}{% endif %}">{{ site.url-pretty }}</a>
-            </p>
-          {% endif %}
-          <p class="theme-by">
-            Powered by <a href="https://beautifuljekyll.com">Beautiful Jekyll</a>
+          <p>
+            &copy; Copyright {{ site.time | date: '%Y' }} {{ site.author }}.
+            Powered by Jekyll with <a href="https://beautifuljekyll.com" target="_blank" rel="noopener noreferrer">Beautiful Jekyll theme</a>.
+            Last updated: {{ site.time | date: "%B %d, %Y" }}.
           </p>
         </div>
       </div>
