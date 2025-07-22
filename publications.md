@@ -1,0 +1,91 @@
+---
+layout: page
+title: ""
+permalink: /publications/
+---
+
+
+# Journal articles
+
+
+---
+
+**In preparation**  
+*Tseng, T.*, Thibault, S., Krzonowski, J., Canault, M., Roy, A. C., Brozzoli, C., & Boulenger, V.  
+*Decoding articulatory phonetic features: somatotopic and sensorimotor representations in native and non-native phoneme perception.*
+
+---
+
+**Under revision**  
+*Tseng, T.*, Krzonowski, J., Brozzoli, C., Roy, A. C., & Boulenger, V.  
+*Embodied speech: sensorimotor contributions to native and non-native language processing and learning.*  
+*Neurobiology of Language.*  
+[Link](https://doi.org/10.31234/osf.io/fqwe8)
+
+---
+
+**2020**  
+*Tseng, T.*  
+*Lexical networks between sounds and meanings in Taiwan mandarin: evidence from psycholinguistics.*  
+*Crossroads. A Journal of English Studies 29, 37-52.*  
+[Link](https://doi.org/10.15290/cr.2020.29.2.03)
+
+---
+
+# Theses
+
+---
+
+**2025**  
+*Tseng, T.*  
+*Sensorimotor Representations for Native and Non-native Phoneme Perception.*  
+*Doctoral Thesis, Université Lumière Lyon 2, France.*  
+[Link](https://hal.science/tel-04988192)
+
+---
+
+**2020**  
+*Tseng, T.*  
+*Lexical organization in Taiwan mandarin: evidence from word association tasks.*  
+*Master’s Thesis, National Chengchi University, Taiwan.*  
+[Link](https://doi.org/10.6814/NCCU202000123)
+
+---
+
+# Conferences
+
+## Oral presentations
+
+---
+
+**2024**  
+*Tseng, T.*, Krzonowski, J., Roy, A., Brozzoli, C., & Boulenger, V.  
+*Decoding degraded speech in the motor cortex.*  
+*Embodied and Situated Language Processing (ESLP 2024), Berlin, Germany.*
+
+---
+
+**2020**  
+*Tseng, T.*  
+*Lexical networks between sounds and meanings in Taiwan mandarin: evidence from psycholinguistics.*  
+*3rd International Białystok－Kyiv Conference on Theoretical and Applied Linguistics, Białystok, Poland.*
+
+---
+
+## Poster presentations
+
+---
+
+**2024**  
+*Tseng, T.*, Krzonowski, J., Roy, A., Brozzoli, C., & Boulenger, V.  
+*Beyond speech production: sensorimotor contribution to native and non-native phoneme perception.*  
+*13th International Seminar on Speech Production (ISSP 2024), Autrans, France.*
+
+---
+
+**2023**  
+*Tseng, T.*, Krzonowski, J., Roy, A., Brozzoli, C., & Boulenger, V.  
+*Cortical representations for native and non-native phoneme perception.*  
+*5th Annual Meeting of the Society for the Neurobiology of Language (SNL 2023), Marseille, France.*
+
+---
