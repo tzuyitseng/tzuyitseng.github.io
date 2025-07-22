@@ -19,8 +19,8 @@ layout: null
   --footer-hover-col: {{ site.footer-hover-col | default: "#0085A1" }};
 
   /* common CSS variables */
-  --body-font: 'Lora', 'Times New Roman', serif;
-  --header-font: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  --body-font: 'Times New Roman', serif;
+  --header-font: 'Constantia', 'Times New Roman', serif;
   --mid-col: #808080;
 }
 
@@ -32,7 +32,7 @@ html {
 
 body {
   font-family: var(--body-font);
-  font-size: 1.125rem;
+  font-size: 1rem;
   color: var(--text-col);
   position: relative;
   background-color: var(--page-col);
