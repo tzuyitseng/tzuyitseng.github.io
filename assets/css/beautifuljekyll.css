@@ -32,7 +32,7 @@ html {
 
 body {
   font-family: var(--body-font);
-  font-size: 0.95rem;
+  font-size: 0.98rem;
   color: var(--text-col);
   position: relative;
   background-color: var(--page-col);
@@ -218,7 +218,7 @@ img {
 .navbar-custom .navbar-brand,
 .navbar-custom .navbar-nav .nav-link {
   font-family: 'Constantia', 'Times New Roman', serif;
-  font-weight: 800;
+  font-weight: 850;
   color: var(--navbar-text-col);
 }
 
