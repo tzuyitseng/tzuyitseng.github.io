@@ -53,36 +53,41 @@ h4 {
 *In preparation*  
 <u>Tseng, T.</u>, Thibault, S., Krzonowski, J., Canault, M., Roy, A. C., Brozzoli, C., & Boulenger, V. <B>Decoding articulatory phonetic features: somatotopic and sensorimotor representations in native and non-native phoneme perception.</B>
 
-*Under revision*
-<u>Tseng, T.</u>, Krzonowski, J., Brozzoli, C., Roy, A. C., & Boulenger, V. <b>Embodied speech: sensorimotor contributions to native and non-native language processing and learning.</b> *Neurobiology of Language.*
-<div class="button-group">
-  <button class="link-btn" onclick="toggleAbstract(this)">ABS</button>
-  <a href="https://doi.org/10.31234/osf.io/fqwe8" target="_blank">
-    <button class="link-btn">PDF</button>
-  </a>
-</div>
-<div class="button-group">
-  <button class="link-btn" onclick="toggleAbstract(this)">ABS</button>
-  <a href="https://doi.org/10.31234/osf.io/fqwe8" target="_blank">
-    <button class="link-btn">PDF</button>
-  </a>
-</div>
-<div class="abstract-box">
-  Learning to recognize and produce foreign speech sounds can be challenging, particularly when only subtle differences distinguish these new sounds from phonemes in the native language. Functional neuroimaging evidence shows that the motor cortex is involved in speech production and in perceptual phonemic processing. This highlights the embodied nature of speech perception, predicting the potential benefits of sensorimotor-based training approaches to enhance the acquisition of foreign speech sounds. Hence, here we first review current findings on the motor contribution to not only native but also non-native phoneme perception. Available evidence has established that motor cortical activity especially shows up under non-optimal perceptual conditions, such as when native phonemes are degraded by noise or when listeners perceive non-native speech sounds. Drawing upon this evidence, we then review training paradigms that have been developed for learning foreign phonemes, with a special emphasis on those embedding manual gestures as cues to represent phonetic features of the to-be-learned speech sounds. By pointing to both strengths and caveats of available studies, this review allows us to delineate a clear framework and opens perspectives to optimize foreign phoneme learning, and ultimately support perception and production.
-</div>
-<script>
-function toggleAbstract(button) {
-  const abstractBox = button.closest('div').nextElementSibling;
-  abstractBox.style.display = abstractBox.style.display === 'none' || !abstractBox.style.display
-    ? 'block'
-    : 'none';
-}
-</script>
+<div class="publication-entry">
+  <p><em>Under revision</em><br>
+  <u>Tseng, T.</u>, Krzonowski, J., Brozzoli, C., Roy, A. C., & Boulenger, V.  
+  <b>Embodied speech: sensorimotor contributions to native and non-native language processing and learning.</b>  
+  <em>Neurobiology of Language.</em></p>
 
-**2020**  
-<u>Tseng, T.</u> <B>Lexical networks between sounds and meanings in Taiwan mandarin: evidence from psycholinguistics.*  
-*Crossroads. A Journal of English Studies 29, 37-52.</B> [Link](https://doi.org/10.15290/cr.2020.29.2.03)
+  <div class="button-group">
+    <button class="link-btn" onclick="toggleAbstract(this)">ABS</button>
+    <a href="https://doi.org/10.31234/osf.io/fqwe8" target="_blank">
+      <button class="link-btn">PDF</button>
+    </a>
+  </div>
 
+  <div class="abstract-box" style="display:none;">
+    Learning to recognize and produce foreign speech sounds can be challenging, particularly when only subtle differences distinguish these new sounds from phonemes in the native language. Functional neuroimaging evidence shows that the motor cortex is involved in speech production and in perceptual phonemic processing. This highlights the embodied nature of speech perception, predicting the potential benefits of sensorimotor-based training approaches to enhance the acquisition of foreign speech sounds. Hence, here we first review current findings on the motor contribution to not only native but also non-native phoneme perception. Available evidence has established that motor cortical activity especially shows up under non-optimal perceptual conditions, such as when native phonemes are degraded by noise or when listeners perceive non-native speech sounds. Drawing upon this evidence, we then review training paradigms that have been developed for learning foreign phonemes, with a special emphasis on those embedding manual gestures as cues to represent phonetic features of the to-be-learned speech sounds. By pointing to both strengths and caveats of available studies, this review allows us to delineate a clear framework and opens perspectives to optimize foreign phoneme learning, and ultimately support perception and production.
+  </div>
+</div>
+
+<div class="publication-entry">
+  <p><b>2020</b><br>
+  <u>Tseng, T.</u>, Krzonowski, J., Brozzoli, C., Roy, A. C., & Boulenger, V.  
+  <b>Lexical networks between sounds and meanings in Taiwan mandarin: evidence from psycholinguistics.</b>  
+  <em>Crossroads. A Journal of English Studies 29</em>, 37-52.</p>
+
+  <div class="button-group">
+    <button class="link-btn" onclick="toggleAbstract(this)">ABS</button>
+    <a href="https://doi.org/10.15290/cr.2020.29.2.03" target="_blank">
+      <button class="link-btn">PDF</button>
+    </a>
+  </div>
+
+  <div class="abstract-box" style="display:none;">
+    The present study aims to provide an outline of lexical networks between sounds and meanings in Taiwan Mandarin. Both the phonological and semantic relations are explored by a free word association task. Previous research has demonstrated a significant influence of phonology on Indo-European networks and suggested the influence of semantics on languages with lexicography such as Mandarin. With a new methodology in which word frequency, syllable type, syllable structure, tone structure, imageability, and parts of speech are carefully considered for the experimental stimuli, a total of 248 responses were collected from six Taiwan Mandarin native speakers. The results of lexical associations suggest that: 1) semantic relations show a stronger connection than phonological ones in Taiwan Mandarin networks; 2) rhymes present a stronger influence on associations than initial segments. The understanding of lexical organization in the human brain may contribute to further research on functions of associations and networks between human and artificial intelligence.
+  </div>
+</div>
 
 
 ## Theses
