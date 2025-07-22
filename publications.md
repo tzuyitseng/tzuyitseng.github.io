@@ -9,7 +9,7 @@ permalink: /publications/
   border: none;
   height: 1px;
   background: linear-gradient(to right, transparent, #A19F8A, transparent);
-  margin: 20px 0;
+  margin: 10px 0;
 }
 
 h2 {
@@ -51,11 +51,12 @@ h4 {
 <hr class="gradient-divider" />
 
 *In preparation*  
-<u>Tseng, T.</u>, Thibault, S., Krzonowski, J., Canault, M., Roy, A. C., Brozzoli, C., & Boulenger, V. <B>Decoding articulatory phonetic features: somatotopic and sensorimotor representations in native and non-native phoneme perception.</B>
+<u>Tseng, T.</u>, Thibault, S., Krzonowski, J., Canault, M., Roy, A. C., Brozzoli, C., & Boulenger, V. <br>
+<B>Decoding articulatory phonetic features: somatotopic and sensorimotor representations in native and non-native phoneme perception.</B>
 
 <div class="publication-entry">
   <p><em>Under revision</em><br>
-  <u>Tseng, T.</u>, Krzonowski, J., Brozzoli, C., Roy, A. C., & Boulenger, V.  
+  <u>Tseng, T.</u>, Krzonowski, J., Brozzoli, C., Roy, A. C., & Boulenger, V. <br>
   <b>Embodied speech: sensorimotor contributions to native and non-native language processing and learning.</b>  
   <em>Neurobiology of Language.</em></p>
 
@@ -73,7 +74,7 @@ h4 {
 
 <div class="publication-entry">
   <p><b>2020</b><br>
-  <u>Tseng, T.</u>.  
+  <u>Tseng, T.</u>  
   <b>Lexical networks between sounds and meanings in Taiwan mandarin: evidence from psycholinguistics.</b>  
   <em>Crossroads. A Journal of English Studies 29</em>, 37-52.</p>
 
@@ -90,15 +91,15 @@ h4 {
 </div>
 
 
+
 ## Theses
 <hr class="gradient-divider" />
 
 <div class="publication-entry">
   <p><b>2025</b><br>
-  <u>Tseng, T.</u>.  
+  <u>Tseng, T.</u>
   <b>Sensorimotor Representations for Native and Non-native Phoneme Perception.</b>  
   Doctoral Thesis, Université Lumière Lyon 2, France.</p>
-
   <div class="button-group">
     <button class="link-btn" onclick="toggleAbstract(this)">ABS</button>
     <a href="https://hal.science/tel-04988192" target="_blank">
@@ -111,15 +112,11 @@ h4 {
   </div>
 </div>
 
-**2020**  
-<u>Tseng, T.</u> <B>Lexical organization in Taiwan mandarin: evidence from word association tasks.</B> Master’s Thesis, National Chengchi University, Taiwan. [Link](https://doi.org/10.6814/NCCU202000123)
-
 <div class="publication-entry">
   <p><b>2020</b><br>
   <u>Tseng, T.</u>.  
   <b>Lexical organization in Taiwan mandarin: evidence from word association tasks.</b>  
   Master’s Thesis, National Chengchi University, Taiwan.</p>
-
   <div class="button-group">
     <button class="link-btn" onclick="toggleAbstract(this)">ABS</button>
     <a href="https://doi.org/10.6814/NCCU202000123" target="_blank">
@@ -141,6 +138,8 @@ function toggleAbstract(button) {
     : 'none';
 }
 </script>
+
+
 
 ## Conferences
 <hr class="gradient-divider" />
