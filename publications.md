@@ -17,7 +17,7 @@ h2 {
   font-family: 'Constantia', serif;
 }
 
-h3 {
+h4 {
   color: #523D35; /*8A8A70*/
 }
 
@@ -32,23 +32,22 @@ button.link-btn {
 </style>
 
 ## Journal articles
-
 <hr class="gradient-divider" />
 
 *In preparation*  
 <u>Tseng, T.</u>, Thibault, S., Krzonowski, J., Canault, M., Roy, A. C., Brozzoli, C., & Boulenger, V. <B>Decoding articulatory phonetic features: somatotopic and sensorimotor representations in native and non-native phoneme perception.</B>
 
 *Under revision*  
-<u>Tseng, T.</u>, Krzonowski, J., Brozzoli, C., Roy, A. C., & Boulenger, V. <B>Embodied speech: sensorimotor contributions to native and non-native language processing and learning.</B> *Neurobiology of Language.* [Link](https://doi.org/10.31234/osf.io/fqwe8)
-
+<u>Tseng, T.</u>, Krzonowski, J., Brozzoli, C., Roy, A. C., & Boulenger, V. <B>Embodied speech: sensorimotor contributions to native and non-native language processing and learning.</B> *Neurobiology of Language.* 
 <details>
-<summary>ABS</summary>
-
-This study investigates sensorimotor contributions to native and non-native language processing and learning, using behavioral and neuroimaging methods...
-
+  <summary><button class="link-btn">ABS</button></summary>
+  <div style="margin: 8px 0 0 0; font-size: 0.9em;">
+    This study investigates sensorimotor contributions to native and non-native language processing and learning, using behavioral and neuroimaging methods...
+  </div>
 </details>
-
-[PDF](https://doi.org/10.31234/osf.io/fqwe8)
+<a href="https://doi.org/10.31234/osf.io/fqwe8" target="_blank">
+  <button class="link-btn">PDF</button>
+</a>
 
 **2020**  
 <u>Tseng, T.</u> <B>Lexical networks between sounds and meanings in Taiwan mandarin: evidence from psycholinguistics.*  
