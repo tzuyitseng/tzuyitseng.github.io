@@ -13,8 +13,8 @@ permalink: /projects/
 }
 
 .news-with-pics img {
-  width: 120px;
-  height: 120px;
+  width: 100px;
+  height: 100px;
   object-fit: contain;
   border-radius: 4px;
   flex-shrink: 0;
@@ -28,14 +28,15 @@ permalink: /projects/
   display: flex;
   align-items: flex-end;
   gap: 2em;
-  margin-left: 10em;;
+  margin-top: 1em;
+  margin-bottom: 1em;
 }
 
 .bullet-image-row img {
-  width: 200px;
-  height: 200px;
-  object-fit: cover;
-  border-radius: 4px;
+  width: 300px;
+  height: 300px;
+  object-fit: contain;
+  border-radius: 10px;
   flex-shrink: 0;
 }
 
