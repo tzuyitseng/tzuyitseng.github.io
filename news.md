@@ -10,8 +10,8 @@ permalink: /news/
   overflow-y: auto;
   padding: 0.5em 1em;
   border-radius: 4px;
-  margin-bottom: 3em;
-  margin-top: 1.5em;
+  margin-bottom: 3.5em;
+  margin-top: 1em;
 }
 
 .news-with-pics {
