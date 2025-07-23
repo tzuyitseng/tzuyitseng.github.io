@@ -13,7 +13,9 @@ layout: base
     </div>
   {% endif %}
 
-  {{ content }}
+  <div class="content-wrapper">
+    {{ content }}
+  </div>
 
   {% if page.after-content %}
     <div class="after-content">
@@ -23,3 +25,4 @@ layout: base
     </div>
   {% endif %}
 </main>
+
