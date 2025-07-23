@@ -86,7 +86,7 @@ I'm always open to brainstorming new research ideas and building potential colla
 </ul>
 
 <div class="profile-image-container">
-  <img src="/assets/img/prof_pic2.png" alt="Profile picture">
+  <img src="/assets/img/brain-icon.png" alt="brain-icon">
 </div>
 
 <br>
