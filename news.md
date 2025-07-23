@@ -19,7 +19,7 @@ permalink: /news/
   align-items: flex-start;
   gap: 1em;
   margin-bottom: 1em;
-  margin-top: 1em;
+  margin-top: 1.5em;
 }
 
 .news-with-pics img {
