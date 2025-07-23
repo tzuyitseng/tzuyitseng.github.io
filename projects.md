@@ -37,7 +37,15 @@ h3 {
 }
 </style>
 
-I'm always open to brainstorming new research ideas and building potential collaborations. Please feel free to get in touch!
+I'm always open to brainstorming new research ideas and building potential collaborations, especially within (but not limited to) 
+my current research interests in cognitive psycho- and neurolinguistics with cross-linguistic comparison for:<br>
+<ul class="custom-bullet-list">
+  <li>sensorimotor representations in language processing</li>
+  <li>speech processing of articulatory features</li>
+  <li>prosodic encoding of emotions</li>
+  <li>structure and access of the mental lexicon</li>
+</ul>
+Please feel free to get in touch!
 <br><br>
 ### Ongoing preparation & collaborations
 <hr class="gradient-divider" />
