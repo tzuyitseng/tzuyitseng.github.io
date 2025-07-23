@@ -90,12 +90,12 @@ h3 {
 
 <div class="scroll-window">
 
-<li>03 July 2025: Tzuyi gave a laboratory presentation titled "What do know about emotion, language and the brain? A glimpse into current research." at <a href="https://www.crnl.fr/fr/equipe/impact">ImpAct</a> Journal Club, CRNL, Bron, France. <a href="https://bsky.app/profile/tzuyitseng.bsky.social/post/3lt2thpfgsk2p">[picture]</a></li>
-<li>24 June 2025: Tzuyi gave a laboratory presentation titled "First steps toward emotion recognition across languages: a preliminary behavioral and fMRI protocol." at <a href="http://www.ddl.cnrs.fr/">DDL</a> Club PAD (Protocole à la Demande/Protocol on Demand), Lyon, France. <a href="https://bsky.app/profile/tzuyitseng.bsky.social/post/3lsh6fxqa3223">[picture]</a></li>
-<li>21 June 2025 2025: Tzuyi organized a <b>public seminar</b> "The Brain Talks Seminar" for local kids to learn more about neurolinguistics, as the <a href="https://ohbm-dic.github.io/kidsreview/2025/mandarin_session/">Brain Mappers of Tomorrow Satellite Mandarin Session in Lyon, France</a>, a part of 2025 Human Brain Mapping <a href="https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=4229">(OHBM)</a> annual meeting, Brisbane, Australia.</li>
+<li>03 July 2025: Tzuyi Tseng gave a laboratory presentation titled "What do know about emotion, language and the brain? A glimpse into current research." at <a href="https://www.crnl.fr/fr/equipe/impact">ImpAct</a> Journal Club, CRNL, Bron, France. <a href="https://bsky.app/profile/tzuyitseng.bsky.social/post/3lt2thpfgsk2p">[picture]</a></li>
+<li>24 June 2025: Tzuyi Tseng gave a laboratory presentation titled "First steps toward emotion recognition across languages: a preliminary behavioral and fMRI protocol." at <a href="http://www.ddl.cnrs.fr/">DDL</a> Club PAD (Protocole à la Demande/Protocol on Demand), Lyon, France. <a href="https://bsky.app/profile/tzuyitseng.bsky.social/post/3lsh6fxqa3223">[picture]</a></li>
+<li>21 June 2025 2025: Tzuyi Tseng organized a <b>public seminar</b> "The Brain Talks Seminar" for local kids to learn more about neurolinguistics, as the <a href="https://ohbm-dic.github.io/kidsreview/2025/mandarin_session/">Brain Mappers of Tomorrow Satellite Mandarin Session in Lyon, France</a>, a part of 2025 Human Brain Mapping <a href="https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=4229">(OHBM)</a> annual meeting, Brisbane, Australia.</li>
   <div class="news-with-pics">
     <img src="/assets/img/seminar_BMT2025.jpg" alt="seminar_BMT2025">
   </div>
-<li>20 February 2025: Tzuyi gave a public talk titled "Sensorimotor representation of native and non-native phoneme perception and its application for foreign language learning." at <a href="https://homepage.ntu.edu.tw/~gilntu/">Graduate Institute of Linguistics</a>, National Taiwan University, Taipei, Taiwan. <a href="https://bsky.app/profile/tzuyitseng.bsky.social/post/3lilze57ggc2z">[picture]</a></li>
+<li>20 February 2025: Tzuyi Tseng gave a public talk titled "Sensorimotor representation of native and non-native phoneme perception and its application for foreign language learning." at <a href="https://homepage.ntu.edu.tw/~gilntu/">Graduate Institute of Linguistics</a>, National Taiwan University, Taipei, Taiwan. <a href="https://bsky.app/profile/tzuyitseng.bsky.social/post/3lilze57ggc2z">[picture]</a></li>
 
 </div>
