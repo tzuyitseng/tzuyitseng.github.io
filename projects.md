@@ -26,23 +26,27 @@ permalink: /projects/
 
 .bullet-image-row {
   display: flex;
-  align-items: flex-start; 
-  justify-content: space-between; /* pushes items apart */
+  align-items: flex-start;
+  justify-content: space-between;
   gap: 1em;
-  margin-top: 1em;
-  margin-bottom: 1em;
+  margin-top: 0.5em; /* Reduced space above */
+  margin-bottom: 0.5em; /* Reduced space below */
 }
 
 .custom-bullet-list {
+  flex-grow: 1;
+  margin: 0; /* Remove default margin from ul container */
+}
+
+.custom-bullet-list ul {
   margin: 0;
-  padding: 0 1em 0 0;
+  padding-left: 1.5em; /* standard bullet indent */
   list-style-type: disc;
-  flex-grow: 1; /* allow list to expand */
 }
 
 .bullet-image-row img {
-  width: 120px;
-  height: 120px;
+  width: 150px;
+  height: 150px;
   object-fit: contain;
   border-radius: 1px;
   flex-shrink: 0;
