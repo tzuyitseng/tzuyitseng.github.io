@@ -64,7 +64,7 @@ my current research interests in cognitive psycho- and neurolinguistics with cro
   <li>structure and access of the mental lexicon</li>
 </ul>
 <div class="right-image">
-  <img src="/assets/img/brain-icon.jpg" alt="brain-icon">
+  <img src="/assets/img/brain-icon.png" alt="brain-icon">
 </div>
 Please feel free to get in touch!
 <br><br>
@@ -95,7 +95,7 @@ Please feel free to get in touch!
 <div class="scroll-window">
   <div class="news-with-pics">
     <img src="/assets/img/moe-icon.png" alt="moe-icon">
-    <div><b>[2020 - 2021. Assistant. PI: <a href="https://tcsl.nccu.edu.tw/PageStaffing/Detail?fid=4056&id=5218" style="text-decoration:none;">Hsun-Huei Chang</a>]</b>: <a href="https://sprout.moe.edu.tw/zh-tw/main.aspx?rn=-8898" style="text-decoration:none;"><b>Higher Education Sprout Project</b> (MOE 109H122-02; MOE 110H122-02)</a>, aimed to enhance sustained progress and rise of universities in Taiwan.
+    <div><b>[2020 - 2021. Assistant. PI: <a href="https://tcsl.nccu.edu.tw/PageStaffing/Detail?fid=4056&id=5218" style="text-decoration:none;">Hsun-Huei Chang</a>]</b>: <a href="https://sprout.moe.edu.tw/zh-tw/main.aspx?rn=-8898" style="text-decoration:none;"><b>Higher Education Sprout Project</b></a> (MOE 109H122-02; MOE 110H122-02), aimed to enhance sustained progress and rise of universities in Taiwan.
     </div>
   </div>
 </div>
@@ -103,26 +103,26 @@ Please feel free to get in touch!
 <div class="scroll-window">
   <div class="news-with-pics">
     <img src="/assets/img/moe-icon.png" alt="moe-icon">
-    <div><b>[2020 - 2021. Assistant. PI: <a href="https://tcsl.nccu.edu.tw/PageStaffing/Detail?fid=4056&id=5218" style="text-decoration:none;">Hsun-Huei Chang</a>]</b>: <a href="https://sprout.moe.edu.tw/zh-tw/main.aspx?rn=-8898" style="text-decoration:none;"><b>Higher Education Sprout E Project</b> (MOE 109H124E-11)</a>, provided an international course with both online and in-class learning and both campus and overseas professionals.
+    <div><b>[2020 - 2021. Assistant. PI: <a href="https://tcsl.nccu.edu.tw/PageStaffing/Detail?fid=4056&id=5218" style="text-decoration:none;">Hsun-Huei Chang</a>]</b>: <a href="https://sprout.moe.edu.tw/zh-tw/main.aspx?rn=-8898" style="text-decoration:none;"><b>Higher Education Sprout E Project</b></a> (MOE 109H124E-11), provided an international course with both online and in-class learning and both campus and overseas professionals.
     </div>
   </div>
 </div>
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
 <div class="news-with-pics">
   <img src="/assets/img/most-icon.png" alt="most-icon">
-  <div><b>[2018 - 2021. Assistant & Analyst. PI: <a href="https://ling.nccu.edu.tw/PageStaffing/Detail?fid=5959&id=1894" style="text-decoration:none;">I-Ping Wan</a>]</b>: <a href="https://www.nstc.gov.tw/?l=en" style="text-decoration:none;"><b>Ministry of Science and Technology</b> (MOST, current National Science and Technology Council) Project (MOST 107-2410-H-004-127; MOST 108-2410-H-004-098-MY2)</a>, investigated the error analysis of Thai students learning Taiwan Mandarin: a corpus-driven and cross-sectional study.
+  <div><b>[2018 - 2021. Assistant & Analyst. PI: <a href="https://ling.nccu.edu.tw/PageStaffing/Detail?fid=5959&id=1894" style="text-decoration:none;">I-Ping Wan</a>]</b>: <a href="https://www.nstc.gov.tw/?l=en" style="text-decoration:none;"><b>Ministry of Science and Technology</b></a> (MOST, current National Science and Technology Council) Project (MOST 107-2410-H-004-127; MOST 108-2410-H-004-098-MY2), investigated the error analysis of Thai students learning Taiwan Mandarin: a corpus-driven and cross-sectional study.
   </div>
 </div>
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
 <div class="news-with-pics">
   <img src="/assets/img/most-icon.png" alt="most-icon">
-  <div><b>[2018 - 2019. Assistant & Analyst. PI: <a href="https://ling.nccu.edu.tw/PageStaffing/Detail?fid=5959&id=1894" style="text-decoration:none;">I-Ping Wan</a>]</b>: <a href="https://www.nstc.gov.tw/?l=en" style="text-decoration:none;"><b>MOST Project</b> (MOST 107-2420-H-002-007-MY3-W10806)</a>, established an academic research website for AI and machine learning in sentiment analysis: Corpora studies in natural language processing.
+  <div><b>[2018 - 2019. Assistant & Analyst. PI: <a href="https://ling.nccu.edu.tw/PageStaffing/Detail?fid=5959&id=1894" style="text-decoration:none;">I-Ping Wan</a>]</b>: <a href="https://www.nstc.gov.tw/?l=en" style="text-decoration:none;"><b>MOST Project</b></a> (MOST 107-2420-H-002-007-MY3-W10806), established an academic research website for AI and machine learning in sentiment analysis: Corpora studies in natural language processing.
   </div>
 </div>
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
 <div class="news-with-pics">
   <img src="/assets/img/moe-icon.png" alt="moe-icon">
-  <div><b>[2017 - 2018. Assistant. PI: <a href="https://ling.nccu.edu.tw/PageStaffing/Detail?fid=5959&id=1894" style="text-decoration:none;">I-Ping Wan</a>]</b>: <a href="https://www.nstc.gov.tw/?l=en" style="text-decoration:none;"><b>MOST Project</b> (MOE 107F107016)</a>, studied Thai students learning Mandarin lexical tones.
+  <div><b>[2017 - 2018. Assistant. PI: <a href="https://ling.nccu.edu.tw/PageStaffing/Detail?fid=5959&id=1894" style="text-decoration:none;">I-Ping Wan</a>]</b>: <a href="https://www.nstc.gov.tw/?l=en" style="text-decoration:none;"><b>MOST Project</b></a> (MOE 107F107016), studied Thai students learning Mandarin lexical tones.
   </div>
 </div>
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
