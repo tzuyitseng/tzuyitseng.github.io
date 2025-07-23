@@ -76,14 +76,15 @@ h3 {
   </p>
   <div class="bullet-image-row">
     <ul class="custom-bullet-list">
-      <li>sensorimotor representations in language processing</li>
-      <li>speech processing of articulatory features</li>
-      <li>prosodic encoding of emotions</li>
-      <li>structure and access of the mental lexicon</li>
+      <li>fMRI experiments (3T sparse/continuous sequence)</li>
+      <li>multivariate pattern analysis (scikit-learn/rsatoolbox)</li>
+      <li>statistical analysis (classification using Python/R)</li>
+      <li>speech processing (Praat)</li>
     </ul>
     <img src="/assets/img/brain-icon.png" alt="brain-icon">
   </div>
 </div>
+Please feel free to get in touch!
 <br><br>
 ### Ongoing preparation & collaborations
 <hr class="gradient-divider" />
