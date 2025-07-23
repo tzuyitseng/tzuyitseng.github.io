@@ -77,8 +77,8 @@ my current research interests in cognitive psycho- and neurolinguistics with cro
     <li>speech processing of articulatory features</li>
     <li>prosodic encoding of emotions</li>
     <li>structure and access of the mental lexicon</li></ul>
+  Please feel free to get in touch!
   <img src="/assets/img/brain-icon.png" alt="brain-icon"></div>
-Please feel free to get in touch!
 <br><br>
 ### Ongoing preparation & collaborations
 <hr class="gradient-divider" />
