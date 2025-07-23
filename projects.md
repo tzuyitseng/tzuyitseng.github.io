@@ -13,8 +13,8 @@ permalink: /projects/
 }
 
 .news-with-pics img {
-  width: 100px;
-  height: 100px;
+  width: 90px;
+  height: 90px;
   object-fit: contain;
   border-radius: 4px;
   flex-shrink: 0;
@@ -33,8 +33,8 @@ permalink: /projects/
 }
 
 .bullet-image-row img {
-  width: 300px;
-  height: 300px;
+  width: 200px;
+  height: 200px;
   object-fit: contain;
   border-radius: 10px;
   flex-shrink: 0;
@@ -69,11 +69,11 @@ Please feel free to get in touch!
 ### Ongoing preparation & collaborations
 <hr class="gradient-divider" />
 
-<li>Independently developing a funding application for a new research project led by <u>T. Tseng</u> on cortical emotion recognition across languages. <B>Open to collaborations</B>.</li>
+<li>Independently developing a funding application for a new research project led by <u>Tzuyi Tseng</u> on cortical emotion recognition across languages. <B>Open to collaborations</B>.</li>
 <li>Conducting a preliminary investigation of cross-linguistic emotion recognition in French and Mandarin verbal phrases and non-verbal vocalizations, in collaboration with <a href="http://www.ddl.cnrs.fr/Annuaires/Index.asp?Langue=FR&Page=Aitana%20GARCIA%20ARASCO" style="text-decoration:none;">Aitana Garcia Arasco</a> (DDL & ENES), Saint-Etienne, France.</li>
 <li>External collaborator of the Inidex EFL project on the grammatical encoding of expressivity and emotions, in collaboration with <a href="http://www.llf.cnrs.fr/fr/Gens/Brunetti" style="text-decoration:none;">Lisa Brunetti</a> (Université Paris Cité), Paris, France.</li>
 <li>Developing a funding application for a research project led by <a href="https://lnalborczyk.github.io/" style="text-decoration:none;">Ladislas Nalborczyk</a> (CNRS), Aix-en-Provence, France, on uncovering the neural dynamics of inner speech from EEG signals.</li>
-<li>Developing a funding application for a new research project co-led by <u>T. Tseng</u> on articulatory imagery in foreign language learning, in collaboration with <a href="https://lnalborczyk.github.io/" style="text-decoration:none;">Ladislas Nalborczyk</a> (CNRS), Aix-en-Provence, France.</li>
+<li>Developing a funding application for a new research project co-led by <u>Tzuyi Tseng</u> on articulatory imagery in foreign language learning, in collaboration with <a href="https://lnalborczyk.github.io/" style="text-decoration:none;">Ladislas Nalborczyk</a> (CNRS), Aix-en-Provence, France.</li>
 <br>
 ### Past participation
 <hr class="gradient-divider" />
