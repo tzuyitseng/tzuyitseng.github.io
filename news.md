@@ -46,7 +46,7 @@ h3 {
 }
 </style>
 
-Updates on news and scientific activities from 2025. More details and earlier events can be found in my <a href="https://tzuyitseng.github.io/cv/">Curriculum Vitae</a>.<br>
+Updated news and scientific activities from 2025. More details and earlier events can be found in my <a href="https://tzuyitseng.github.io/cv/">Curriculum Vitae</a>.<br>
 ### General News
 <hr class="gradient-divider" />
 
@@ -65,7 +65,7 @@ Updates on news and scientific activities from 2025. More details and earlier ev
 
 <div class="scroll-window">
 
-<li>21 May 2025: The preprint of Tzuyi Tseng and collaborators' study, "Embodied speech: sensorimotor contributions to native and non-native phoneme processing and learning", received positive comments from the editor of <a href="https://direct.mit.edu/nol"><em>Neurobiology of Language</em></a>, and is currently under revision!</li>
+<li>21 May 2025: The preprint of Tzuyi Tseng and collaborators' study, "Embodied speech: sensorimotor contributions to native and non-native phoneme processing and learning" <a href="https://osf.io/preprints/psyarxiv/fqwe8"><em>(preprint)</em></a>, received positive comments from the editor of <a href="https://direct.mit.edu/nol"><em>Neurobiology of Language</em></a>, and is currently under revision!</li>
 <li>08 November 2025: The manuscript of Tzuyi Tseng and collaborators' study, "Embodied speech: sensorimotor contributions to native and non-native language processing and learning", is now available as a preprint on <a href="https://osf.io/preprints/psyarxiv/fqwe8"><em>PsyArXiv</em></a>.</li>
 
 </div>
