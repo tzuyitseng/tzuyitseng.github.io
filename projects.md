@@ -26,7 +26,7 @@ permalink: /projects/
 
 .bullet-image-row {
   display: flex;
-  align-items: flex-start;
+  align-items: center;
   justify-content: space-between;
   gap: 1em;
   margin-top: 0.5em; /* Reduced space above */
@@ -49,6 +49,7 @@ permalink: /projects/
   height: 150px;
   object-fit: contain;
   border-radius: 1px;
+  margin-top: 2em;
   flex-shrink: 0;
 }
 
