@@ -12,7 +12,7 @@ permalink: /publications/
   margin: 6px 0;
 }
 
-h2 {
+h3 {
   color: #A19F8A;
   font-family: 'Constantia', serif;
 }
@@ -38,7 +38,22 @@ h4 {
   cursor: pointer;
   border-radius: 3px;
   font-size: 0.7em;
+  color: #523D35; /* <-- Explicitly set text color */
+  text-decoration: none; /* <-- Remove underline */
+  font-family: inherit; /* Optional: keep font consistent */
+  display: inline-block;
+  line-height: 1.2;
+  min-width: 2.5em; /* ensures consistent width */
+  text-align: center;
+
 }
+
+/* Prevent Safari styling from affecting buttons inside <a> */
+a.link-btn, a.link-btn:visited {
+  color: #523D35;
+  text-decoration: none;
+}
+
 
 .abstract-box {
   color: #523D35;
@@ -51,7 +66,7 @@ h4 {
 }
 </style>
 
-## Journal articles
+### Journal articles
 <hr class="gradient-divider" />
 
 *In preparation*  
@@ -65,10 +80,8 @@ h4 {
   <em>Neurobiology of Language.</em></p>
 
   <div class="button-group">
-    <button class="link-btn" onclick="toggleAbstract(this)">ABS</button>
-    <a href="https://doi.org/10.31234/osf.io/fqwe8" target="_blank">
-      <button class="link-btn">PDF</button>
-    </a>
+    <a class="link-btn" href="javascript:void(0);" onclick="toggleAbstract(this)">ABS</a>
+    <a class="link-btn" href="https://doi.org/10.31234/osf.io/fqwe8" target="_blank">PDF</a>
   </div>
 
   <div class="abstract-box" style="display:none;">
@@ -81,12 +94,9 @@ h4 {
   <u>Tseng, T.</u>  
   <b>Lexical networks between sounds and meanings in Taiwan mandarin: evidence from psycholinguistics.</b>  
   <em>Crossroads. A Journal of English Studies 29</em>, 37-52.</p>
-
   <div class="button-group">
-    <button class="link-btn" onclick="toggleAbstract(this)">ABS</button>
-    <a href="https://doi.org/10.15290/cr.2020.29.2.03" target="_blank">
-      <button class="link-btn">PDF</button>
-    </a>
+    <a class="link-btn" href="javascript:void(0);" onclick="toggleAbstract(this)">ABS</a>
+    <a class="link-btn" href="https://doi.org/10.15290/cr.2020.29.2.03" target="_blank">PDF</a>
   </div>
 
   <div class="abstract-box" style="display:none;">
@@ -95,7 +105,7 @@ h4 {
 </div>
 <br>
 
-## Theses
+### Theses
 <hr class="gradient-divider" />
 
 <div class="publication-entry">
@@ -104,10 +114,8 @@ h4 {
   <b>Sensorimotor Representations for Native and Non-native Phoneme Perception.</b>  
   Doctoral Thesis, Université Lumière Lyon 2, France.</p>
   <div class="button-group">
-    <button class="link-btn" onclick="toggleAbstract(this)">ABS</button>
-    <a href="https://hal.science/tel-04988192" target="_blank">
-      <button class="link-btn">PDF</button>
-    </a>
+    <a class="link-btn" href="javascript:void(0);" onclick="toggleAbstract(this)">ABS</a>
+    <a class="link-btn" href="https://hal.science/tel-04988192" target="_blank">PDF</a>
   </div>
 
   <div class="abstract-box" style="display:none;">
@@ -123,10 +131,8 @@ h4 {
   <b>Lexical organization in Taiwan mandarin: evidence from word association tasks.</b>  
   Master’s Thesis, National Chengchi University, Taiwan.</p>
   <div class="button-group">
-    <button class="link-btn" onclick="toggleAbstract(this)">ABS</button>
-    <a href="https://doi.org/10.6814/NCCU202000123" target="_blank">
-      <button class="link-btn">PDF</button>
-    </a>
+    <a class="link-btn" href="javascript:void(0);" onclick="toggleAbstract(this)">ABS</a>
+    <a class="link-btn" href="https://doi.org/10.6814/NCCU202000123" target="_blank">PDF</a>
   </div>
 
   <div class="abstract-box" style="display:none;">
@@ -146,7 +152,7 @@ function toggleAbstract(button) {
 </script>
 <br>
 
-## Conferences
+### Conferences
 <hr class="gradient-divider" />
 
 #### Oral presentations
