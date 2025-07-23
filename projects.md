@@ -30,6 +30,7 @@ permalink: /projects/
   object-fit: contain;
   border-radius: 4px;
   display: block;
+  float: right;
   margin-top: 0.5em; /* some space above the image */
 }
 
@@ -80,7 +81,6 @@ h3 {
   </div>
   <img src="/assets/img/brain-icon.png" alt="brain-icon">
 </div>
-<br>
 ### Ongoing preparation & collaborations
 <hr class="gradient-divider" />
 
