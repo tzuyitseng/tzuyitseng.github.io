@@ -24,24 +24,21 @@ permalink: /projects/
   flex: 1;
 }
 
-  .right-image {
+.bullet-image-row {
   display: flex;
-  justify-content: flex-end;
-  margin-top: 1em;
-  margin-bottom: 1em;
+  align-items: flex-start; /* aligns top of image with top of list */
+  gap: 2em;
+  margin-top: 2em;
 }
 
-.right-image img {
+.bullet-image-row img {
   width: 100px;
   height: 100px;
   object-fit: cover;
   border-radius: 4px;
+  flex-shrink: 0;
 }
 
-.right-image div {
-  flex: 1;
-}
-  
 .gradient-divider {
   border: none;
   height: 1.5px;
@@ -57,14 +54,14 @@ h3 {
 
 I'm always open to brainstorming new research ideas and building potential collaborations, especially within (but not limited to) 
 my current research interests in cognitive psycho- and neurolinguistics with cross-linguistic comparison for:
-<ul class="custom-bullet-list">
-  <li>sensorimotor representations in language processing</li>
-  <li>speech processing of articulatory features</li>
-  <li>prosodic encoding of emotions</li>
-  <li>structure and access of the mental lexicon</li>
-</ul>
-<div class="right-image">
-  <img src="/assets/img/brain-icon.png" alt="brain-icon">
+<div class="bullet-image-row">
+  <ul class="custom-bullet-list">
+    <li>sensorimotor representations in language processing</li>
+    <li>speech processing of articulatory features</li>
+    <li>prosodic encoding of emotions</li>
+    <li>structure and access of the mental lexicon</li>
+  </ul>
+  <img src="/assets/img/brain-icon.jpg" alt="brain-icon">
 </div>
 Please feel free to get in touch!
 <br><br>
