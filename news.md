@@ -19,13 +19,14 @@ permalink: /news/
   align-items: flex-start;
   gap: 1em;
   margin-bottom: 1em;
+  margin-top: 1em;
 }
 
 .news-with-pics img {
   width: 250px;
   height: 160px;
   object-fit: cover;
-  border-radius: 4px;
+  border-radius: 5px;
   flex-shrink: 0;
 }
 
