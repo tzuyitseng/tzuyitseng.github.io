@@ -29,8 +29,12 @@ permalink: /projects/
   align-items: center;
   justify-content: space-between;
   gap: 1em;
-  margin-top: 0.5em; /* Reduced space above */
-  margin-bottom: 0.5em; /* Reduced space below */
+}
+  
+.bullet-image-row + p,
+p + .bullet-image-row {
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
 }
 
 .custom-bullet-list {
@@ -45,8 +49,8 @@ permalink: /projects/
 }
 
 .bullet-image-row img {
-  width: 150px;
-  height: 150px;
+  width: 100px;
+  height: 100px;
   object-fit: contain;
   border-radius: 1px;
   margin-top: 2em;
