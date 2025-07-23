@@ -63,13 +63,14 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "tzuyitseng.neuroling@gmail.com"
-#  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-#  facebook: deanattali
   github: tzuyitseng
 #  google-scholar: your google scholar
   hal: tzuyi-tseng
   ORCID: 0000-0001-6691-8680
   bluesky: tzuyitseng.bsky.social
+  
+#  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+#  facebook: deanattali
 #  patreon: DeanAttali
 #  youtube: "@daattali"
 #  whatsapp: 15551212
