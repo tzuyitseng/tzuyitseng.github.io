@@ -78,17 +78,16 @@ h3 {
 </style>
 
 I'm always open to brainstorming new research ideas and building potential collaborations, especially within (but not limited to) my current research interests in cognitive psycho- and neurolinguistics with cross-linguistic comparison for: 
-<ul>
+<ul class="custom-bullet-list">
 <li>fMRI experiments (3T sparse/continuous sequence)</li>
 <li>multivariate pattern analysis (scikit-learn/rsatoolbox)</li>
 <li>statistical analysis (classification using Python/R)</li>
 <li>speech processing (Praat)</li>
 </ul>
-
+Please feel free to get in touch!
 <div class="profile-image-container">
   <img src="/assets/img/brain-icon.png" alt="brain-icon">
 </div>
-
 <br>
 ### Ongoing preparation & collaborations
 <hr class="gradient-divider" />
