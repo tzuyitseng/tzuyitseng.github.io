@@ -70,8 +70,7 @@ my current research interests in cognitive psycho- and neurolinguistics with cro
     <li>prosodic encoding of emotions</li>
     <li>structure and access of the mental lexicon</li>
   </ul>
-  <img src="/assets/img/brain-icon.png" alt="brain-icon">
-</div>
+  <img src="/assets/img/brain-icon.png" alt="brain-icon"></div>
 Please feel free to get in touch!
 <br><br>
 ### Ongoing preparation & collaborations
