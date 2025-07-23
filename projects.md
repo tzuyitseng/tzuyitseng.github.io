@@ -25,13 +25,12 @@ permalink: /projects/
 }
 
 .bullet-section img {
-  width: 110px;
-  height: 110px;
+  width: 120px;
+  height: 120px;
   object-fit: contain;
-  border-radius: 4px;
+  border-radius: 1px;
   display: block;
   float: right;
-  margin-top: 0.5em; /* some space above the image */
 }
 
 .news-with-pics {
