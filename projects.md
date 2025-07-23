@@ -72,8 +72,7 @@ h3 {
 
 <div class="bullet-section">
   <p class="tight-paragraph">
-    I'm always open to brainstorming new research ideas and building potential collaborations, especially within (but not limited to) 
-    my current research interests in cognitive psycho- and neurolinguistics with cross-linguistic comparison for:
+    I'm always open to brainstorming new research ideas and building potential collaborations, especially within (but not limited to) my current research interests in cognitive psycho- and neurolinguistics with cross-linguistic comparison for:
   </p>
   <div class="bullet-image-row">
     <ul class="custom-bullet-list">
