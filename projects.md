@@ -6,7 +6,6 @@ permalink: /projects/
 
 <style>
 .bullet-section {
-  /* Remove flex layout to stack vertically */
   margin-bottom: 1.5em;
 }
 
