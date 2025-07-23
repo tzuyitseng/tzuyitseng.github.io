@@ -47,7 +47,7 @@ h3 {
   object-fit: cover;
   border-radius: 50%; /* makes it circular */
   display: inline-block;
-  margin: 1em 1 1 0;
+  margin: 1em 1 2 0;
 }
 </style>
 
