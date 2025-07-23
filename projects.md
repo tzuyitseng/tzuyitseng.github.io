@@ -26,15 +26,15 @@ permalink: /projects/
 
 .bullet-image-row {
   display: flex;
-  align-items: flex-end;
-  gap: 2em;
+  align-items: flex-top;
+  gap: 1em;
   margin-top: 1em;
   margin-bottom: 1em;
 }
 
 .bullet-image-row img {
-  width: 200px;
-  height: 200px;
+  width: 100px;
+  height: 100px;
   object-fit: contain;
   border-radius: 10px;
   flex-shrink: 0;
@@ -44,7 +44,7 @@ permalink: /projects/
   border: none;
   height: 1.5px;
   background: linear-gradient(to right, transparent, #A19F8A, transparent);
-  margin: 6px 0 2;
+  margin: 4px 0 2;
 }
 
 h3 {
