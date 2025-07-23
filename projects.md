@@ -5,6 +5,38 @@ permalink: /projects/
 ---
 
 <style>
+.bullet-section {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 1.5em;
+  margin-bottom: 1.5em;
+}
+
+.bullet-text {
+  flex: 1;
+  margin: 0;
+}
+
+.bullet-text p {
+  margin-top: 0;
+  margin-bottom: 0.5em;
+}
+
+.bullet-text ul {
+  margin: 0;
+  padding-left: 1.5em;
+  list-style-type: disc;
+}
+
+.bullet-section img {
+  width: 110px;
+  height: 110px;
+  object-fit: contain;
+  border-radius: 4px;
+  flex-shrink: 0;
+}
+
 .news-with-pics {
   display: flex;
   align-items: flex-start;
@@ -24,44 +56,11 @@ permalink: /projects/
   flex: 1;
 }
 
-.bullet-image-row {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 1em;
-}
-  
-.bullet-image-row + p,
-p + .bullet-image-row {
-  margin-top: 0.5em;
-  margin-bottom: 0.5em;
-}
-
-.custom-bullet-list {
-  flex-grow: 1;
-  margin: 0; /* Remove default margin from ul container */
-}
-
-.custom-bullet-list ul {
-  margin: 0;
-  padding-left: 1.5em; /* standard bullet indent */
-  list-style-type: disc;
-}
-
-.bullet-image-row img {
-  width: 100px;
-  height: 100px;
-  object-fit: contain;
-  border-radius: 1px;
-  margin-top: 2em;
-  flex-shrink: 0;
-}
-
 .gradient-divider {
   border: none;
   height: 1.5px;
   background: linear-gradient(to right, transparent, #A19F8A, transparent);
-  margin: 4px 0 2;
+  margin: 1.5em 0;
 }
 
 h3 {
@@ -71,20 +70,20 @@ h3 {
 </style>
 
 <div class="bullet-section">
-  <p class="tight-paragraph">
-    I'm always open to brainstorming new research ideas and building potential collaborations, especially within (but not limited to) my current research interests in cognitive psycho- and neurolinguistics with cross-linguistic comparison for:
-  </p>
-  <div class="bullet-image-row">
-    <ul class="custom-bullet-list">
+  <div class="bullet-text">
+    <p>
+      I'm always open to brainstorming new research ideas and building potential collaborations, especially within (but not limited to) my current research interests in cognitive psycho- and neurolinguistics with cross-linguistic comparison for:
+    </p>
+    <ul>
       <li>fMRI experiments (3T sparse/continuous sequence)</li>
       <li>multivariate pattern analysis (scikit-learn/rsatoolbox)</li>
       <li>statistical analysis (classification using Python/R)</li>
       <li>speech processing (Praat)</li>
     </ul>
-    <img src="/assets/img/brain-icon.png" alt="brain-icon">
+    <p>Please feel free to get in touch!</p>
   </div>
+  <img src="/assets/img/brain-icon.png" alt="brain-icon">
 </div>
-Please feel free to get in touch!
 <br><br>
 ### Ongoing preparation & collaborations
 <hr class="gradient-divider" />
