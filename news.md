@@ -10,8 +10,8 @@ permalink: /news/
   overflow-y: auto;
   padding: 0.5em 1em;
   border-radius: 4px;
-  margin-bottom: 2em;
-  margin-top: 3em;
+  margin-bottom: 3em;
+  margin-top: 2em;
 }
 
 .news-with-pics {
@@ -23,7 +23,7 @@ permalink: /news/
 
 .news-with-pics img {
   width: 250px;
-  height: 180px;
+  height: 160px;
   object-fit: cover;
   border-radius: 4px;
   flex-shrink: 0;
