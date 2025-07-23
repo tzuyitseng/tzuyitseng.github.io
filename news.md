@@ -11,7 +11,7 @@ permalink: /news/
   padding: 0.5em 1em;
   border-radius: 4px;
   margin-bottom: 3em;
-  margin-top: 2em;
+  margin-top: 1.5em;
 }
 
 .news-with-pics {
