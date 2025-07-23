@@ -13,7 +13,7 @@ permalink: /projects/
 }
 
 .news-with-pics img {
-  width: 130px;
+  width: 100px;
   height: 100px;
   object-fit: cover;
   border-radius: 4px;
@@ -26,14 +26,14 @@ permalink: /projects/
 
 .bullet-image-row {
   display: flex;
-  align-items: flex-start; /* aligns top of image with top of list */
+  align-items: flex-end;
   gap: 2em;
-  margin-top: 2em;
+  margin-left: 10em;;
 }
 
 .bullet-image-row img {
-  width: 100px;
-  height: 100px;
+  width: 200px;
+  height: 200px;
   object-fit: cover;
   border-radius: 4px;
   flex-shrink: 0;
@@ -84,7 +84,7 @@ Please feel free to get in touch!
 </div>
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
 <div class="news-with-pics">
-  <img src="/assets/img/mitx-icon.jpg" alt="mitx-icon">
+  <img src="/assets/img/mitx-icon.png" alt="mitx-icon">
   <div><b>[2020 - 2021. Assistant. PI: <a href="https://languages.mit.edu/people/haohsiang-liao/" style="text-decoration:none;">Haohsiang Liao</a>]</b>: online <b>MITx MOOCs</b> courses - MITx: Chinese Language in Culture: <a href="https://www.edx.org/learn/language/massachusetts-institute-of-technology-chinese-language-in-culture-level-1" style="text-decoration:none;">Level 1</a> & <a href="https://www.edx.org/learn/language/massachusetts-institute-of-technology-chinese-language-in-culture-level-2" style="text-decoration:none;">Level 2</a>, aimed to help the learners without prior background in the language develop skills in Mandarin Chinese to communicate and to develop an understanding of Chinese interpersonal behavioral culture and related thought patterns.
   </div>
 </div>
