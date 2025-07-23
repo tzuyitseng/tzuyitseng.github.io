@@ -46,7 +46,7 @@ h3 {
 }
 </style>
 
-
+Updates on news and scientific activities from 2025. More details and earlier events can be found in my <a href="https://tzuyitseng.github.io/cv/">Curriculum Vitae</a>.<br>
 ### General News
 <hr class="gradient-divider" />
 
