@@ -27,7 +27,7 @@ permalink: /news/
   object-fit: cover;
   border-radius: 5px;
   flex-shrink: 0;
-  margin-top: 0.7em;
+  margin-top: 0.5em;
 }
 
 .news-with-pics div {
