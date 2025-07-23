@@ -6,16 +6,12 @@ permalink: /projects/
 
 <style>
 .bullet-section {
-  display: flex;
-  justify-content: space-between;
-  align-items: flex-start;
-  gap: 1.5em;
+  /* Remove flex layout to stack vertically */
   margin-bottom: 1.5em;
 }
 
 .bullet-text {
-  flex: 1;
-  margin: 0;
+  margin: 0 0 1em 0; /* spacing below text block */
 }
 
 .bullet-text p {
@@ -24,8 +20,7 @@ permalink: /projects/
 }
 
 .bullet-text ul {
-  margin: 0;
-  padding-left: 1.5em;
+  margin: 0 0 1em 1.5em;
   list-style-type: disc;
 }
 
@@ -34,7 +29,8 @@ permalink: /projects/
   height: 110px;
   object-fit: contain;
   border-radius: 4px;
-  flex-shrink: 0;
+  display: block;
+  margin-top: 0.5em; /* some space above the image */
 }
 
 .news-with-pics {
@@ -84,7 +80,7 @@ h3 {
   </div>
   <img src="/assets/img/brain-icon.png" alt="brain-icon">
 </div>
-<br><br>
+<br>
 ### Ongoing preparation & collaborations
 <hr class="gradient-divider" />
 
