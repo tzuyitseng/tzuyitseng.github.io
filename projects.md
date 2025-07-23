@@ -68,13 +68,11 @@ h3 {
 
 I'm always open to brainstorming new research ideas and building potential collaborations, especially within (but not limited to) 
 my current research interests in cognitive psycho- and neurolinguistics with cross-linguistic comparison for:
-<div class="bullet-image-row">
-  <ul class="custom-bullet-list">
+<div class="bullet-image-row"><ul class="custom-bullet-list">
     <li>sensorimotor representations in language processing</li>
     <li>speech processing of articulatory features</li>
     <li>prosodic encoding of emotions</li>
-    <li>structure and access of the mental lexicon</li>
-  </ul>
+    <li>structure and access of the mental lexicon</li></ul>
   <img src="/assets/img/brain-icon.png" alt="brain-icon"></div>
 Please feel free to get in touch!
 <br><br>
