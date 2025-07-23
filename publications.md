@@ -104,7 +104,6 @@ a.link-btn, a.link-btn:visited {
   </div>
 </div>
 <br>
-
 ### Theses
 <hr class="gradient-divider" />
 
@@ -151,7 +150,6 @@ function toggleAbstract(button) {
 }
 </script>
 <br>
-
 ### Conferences
 <hr class="gradient-divider" />
 
