@@ -5,33 +5,6 @@ permalink: /projects/
 ---
 
 <style>
-.bullet-section {
-  margin-bottom: 1.5em;
-}
-
-.bullet-text {
-  margin: 0 0 1em 0; /* spacing below text block */
-}
-
-.bullet-text p {
-  margin-top: 0;
-  margin-bottom: 0.5em;
-}
-
-.bullet-text ul {
-  margin: 0 0 1em 1.5em;
-  list-style-type: disc;
-}
-
-.bullet-section img {
-  width: 120px;
-  height: 120px;
-  object-fit: contain;
-  border-radius: 1px;
-  display: block;
-  float: right;
-}
-
 .news-with-pics {
   display: flex;
   align-items: flex-start;
@@ -55,7 +28,7 @@ permalink: /projects/
   border: none;
   height: 1.5px;
   background: linear-gradient(to right, transparent, #A19F8A, transparent);
-  margin: 1.5em 0;
+  margin: 1em 0;
 }
 
 h3 {
@@ -74,6 +47,7 @@ h3 {
   object-fit: cover;
   border-radius: 50%; /* makes it circular */
   display: inline-block;
+  margin: 1em 1 1 0;
 }
 </style>
 
@@ -88,7 +62,7 @@ Please feel free to get in touch!
 <div class="profile-image-container">
   <img src="/assets/img/brain-icon.png" alt="brain-icon">
 </div>
-<br>
+
 ### Ongoing preparation & collaborations
 <hr class="gradient-divider" />
 
