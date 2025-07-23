@@ -40,14 +40,14 @@ permalink: /news/
   margin: 6px 0;
 }
 
-h4 {
+h3 {
   color: #A19F8A;
   font-family: 'Constantia', serif;
 }
 </style>
 
 
-#### General News
+### General News
 <hr class="gradient-divider" />
 
 <div class="scroll-window">
@@ -69,7 +69,7 @@ h4 {
 
 </div>
 
-#### Invited Talks
+### Invited Talks
 <hr class="gradient-divider" />
 
 <div class="scroll-window">
@@ -83,7 +83,7 @@ h4 {
   </div>
 </div>
 
-#### Scientific Activities
+### Scientific Activities
 <hr class="gradient-divider" />
 
 <div class="scroll-window">
