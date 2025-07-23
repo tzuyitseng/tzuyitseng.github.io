@@ -1,0 +1,141 @@
+---
+layout: page
+title: ""
+permalink: /projects/
+---
+
+<style>
+.scroll-window {
+  max-height: 180px;   /* Adjust height */
+  overflow-y: auto;
+  padding: 0.5em 1em;
+  border: 1px solid #CFBEB6;
+  border-radius: 4px;
+  background: #F7F4EE;
+  margin-bottom: 1.5em;
+  font-family: 'Constantia', serif;
+  color: #523D35;
+}
+
+.news-with-pics {
+  display: flex;
+  align-items: flex-start;
+  gap: 1em;
+  margin-bottom: 1em;
+}
+
+.news-with-pics img {
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+  border-radius: 4px;
+  flex-shrink: 0;
+}
+
+.news-with-pics div {
+  flex: 1;
+}
+
+.gradient-divider {
+  border: none;
+  height: 1.5px;
+  background: linear-gradient(to right, transparent, #A19F8A, transparent);
+  margin: 6px 0;
+}
+
+h3 {
+  color: #A19F8A;
+  font-family: 'Constantia', serif;
+}
+
+h4 {
+  color: #D9D1BE; /*8A8A70*/
+}
+</style>
+
+I'm always open to brainstorming new research ideas and building potential collaborations. Please feel free to get in touch!
+<br>
+### Ongoing preparation & collaborations
+<hr class="gradient-divider" />
+
+<li>Finalizing journal publications for the ANR AnchorFL project, in collaboration with <a href="http://www.ddl.cnrs.fr/boulenger" style="text-decoration:none;">Véronique Boulenger</a> (CNRS), <a href="https://www.crnl.fr/fr/user/166" style="text-decoration:none;">Claudio Brozzoli</a> (Inserm) and <a href="http://www.ddl.cnrs.fr/annuaires/Index.asp?Langue=FR&Page=Alice%20Catherine%20ROY" style="text-decoration:none;">Alice C. Roy</a> (CNRS), Lyon, France.</li>
+<li>Independently developing a funding application for a new research project led by <B>T. Tseng</B> on cortical emotion recognition across languages. <B>Open to collaborations</B>.</li>
+<li>Conducting a preliminary investigation of cross-linguistic emotion recognition in French and Mandarin verbal phrases and non-verbal vocalizations, in collaboration with <a href="http://www.ddl.cnrs.fr/Annuaires/Index.asp?Langue=FR&Page=Aitana%20GARCIA%20ARASCO" style="text-decoration:none;">Aitana Garcia Arasco</a> (DDL & ENES), Saint-Etienne, France.</li>
+<li>External collaborator of the Inidex EFL project on the grammatical encoding of expressivity and emotions, in collaboration with <a href="http://www.llf.cnrs.fr/fr/Gens/Brunetti" style="text-decoration:none;">Lisa Brunetti</a> (Université Paris Cité), Paris, France.</li>
+<li>Developing a funding application for a research project led by <a href="https://lnalborczyk.github.io/" style="text-decoration:none;">Ladislas Nalborczyk</a> (CNRS), Aix-en-Provence, France, on uncovering the neural dynamics of inner speech from EEG signals.</li>
+<li>Developing a funding application for a new research project co-led by <B>T. Tseng</B> on articulatory imagery in foreign language learning, in collaboration with <a href="https://lnalborczyk.github.io/" style="text-decoration:none;">Ladislas Nalborczyk</a> (CNRS), Aix-en-Provence, France.</li>
+<br>
+
+### Past participation
+<hr class="gradient-divider" />
+
+<div class="scroll-window">
+  <div class="news-with-pics">
+    <img src="/assets/img/anr-icon.jpg" alt="anr-icon">
+    <div><b>[2021-2025. PhD student. PI: <a href="https://anr.fr/Project-ANR-19-CE28-0015" style="text-decoration:none;">Véronique Boulenger</a>]</b>: <b>ANR AchorFL (<a href="https://languages.mit.edu/people/haohsiang-liao/" style="text-decoration:none;">ANR-19-CE28-0015</a>)</b> - Anchoring foreign language learning in the motor system, exploited embodied sensorimotor encodings of phonemes and benefits of manual gestures to enrich phonological representations in a foreign language.
+    </div>
+  </div>
+</div>
+<br>
+<hr style="height:1px;border-width:0;color:gray;background-color:gray">
+<br>
+<div class="scroll-window">
+  <div class="news-with-pics">
+    <img src="/assets/img/mitx-icon.jpg" alt="mitx-icon">
+    <div><b>[2020-2021. Assistant. PI: <a href="https://languages.mit.edu/people/haohsiang-liao/" style="text-decoration:none;">Haohsiang Liao</a>]</b>: <b>MITx: Chinese Language in Culture</b>: <a href="https://www.edx.org/learn/language/massachusetts-institute-of-technology-chinese-language-in-culture-level-1" style="text-decoration:none;">Level 1</a> & <a href="https://www.edx.org/learn/language/massachusetts-institute-of-technology-chinese-language-in-culture-level-2" style="text-decoration:none;">Level 2</a>, aimed to help the learners without prior background in the language develop skills in Mandarin Chinese to communicate and to develop an understanding of Chinese interpersonal behavioral culture and related thought patterns.
+    </div>
+  </div>
+</div>
+<br>
+<hr style="height:1px;border-width:0;color:gray;background-color:gray">
+<br>
+<div class="scroll-window">
+  <div class="news-with-pics">
+    <img src="/assets/img/moe-icon.jpg" alt="moe-icon">
+    <div><b>[2020-2021. Assistant. PI: <a href="https://tcsl.nccu.edu.tw/PageStaffing/Detail?fid=4056&id=5218" style="text-decoration:none;">Hsun-Huei Chang</a>]</b>: <a href="https://sprout.moe.edu.tw/zh-tw/main.aspx?rn=-8898" style="text-decoration:none;"><b>Higher Education Sprout Project</b> (MOE 109H122-02; MOE 110H122-02)</a>, aimed to enhance sustained progress and rise of universities in Taiwan.
+    </div>
+  </div>
+</div>
+<br>
+<hr style="height:1px;border-width:0;color:gray;background-color:gray">
+<br>
+<div class="scroll-window">
+  <div class="news-with-pics">
+    <img src="/assets/img/moe-icon.jpg" alt="moe-icon">
+    <div><b>[2020-2021. Assistant. PI: <a href="https://tcsl.nccu.edu.tw/PageStaffing/Detail?fid=4056&id=5218" style="text-decoration:none;">Hsun-Huei Chang</a>]</b>: <a href="https://sprout.moe.edu.tw/zh-tw/main.aspx?rn=-8898" style="text-decoration:none;"><b>Higher Education Sprout E Project</b> (MOE 109H124E-11)</a>, provided an international course with both online and in-class learning and both campus and overseas professionals.
+    </div>
+  </div>
+</div>
+<br>
+<hr style="height:1px;border-width:0;color:gray;background-color:gray">
+<br>
+<div class="scroll-window">
+  <div class="news-with-pics">
+    <img src="/assets/img/most-icon.jpg" alt="most-icon">
+    <div><b>[2018-2021. Assistant & Analyst. PI: <a href="https://ling.nccu.edu.tw/PageStaffing/Detail?fid=5959&id=1894" style="text-decoration:none;">I-Ping Wan</a>]</b>: <a href="https://www.nstc.gov.tw/?l=en" style="text-decoration:none;"><b>Ministry of Science and Technology</b> (MOST, current National Science and Technology Council) Project (MOST 107-2410-H-004-127; MOST 108-2410-H-004-098-MY2)</a>, investigated the error analysis of Thai students learning Taiwan Mandarin: a corpus-driven and cross-sectional study.
+    </div>
+  </div>
+</div>
+<br>
+<hr style="height:1px;border-width:0;color:gray;background-color:gray">
+<br>
+<div class="scroll-window">
+  <div class="news-with-pics">
+    <img src="/assets/img/most-icon.jpg" alt="most-icon">
+    <div><b>[2018-2019. Assistant & Analyst. PI: <a href="https://ling.nccu.edu.tw/PageStaffing/Detail?fid=5959&id=1894" style="text-decoration:none;">I-Ping Wan</a>]</b>: <a href="https://www.nstc.gov.tw/?l=en" style="text-decoration:none;"><b>MOST Project</b> (MOST 107-2420-H-002-007-MY3-W10806)</a>, established an academic research website for AI and machine learning in sentiment analysis: Corpora studies in natural language processing.
+    </div>
+  </div>
+</div>
+<br>
+<hr style="height:1px;border-width:0;color:gray;background-color:gray">
+<br>
+<div class="scroll-window">
+  <div class="news-with-pics">
+    <img src="/assets/img/moe-icon.jpg" alt="moe-icon">
+    <div><b>[2017-2018. Assistant. PI: <a href="https://ling.nccu.edu.tw/PageStaffing/Detail?fid=5959&id=1894" style="text-decoration:none;">I-Ping Wan</a>]</b>: <a href="https://www.nstc.gov.tw/?l=en" style="text-decoration:none;"><b>MOST Project</b> (MOE 107F107016)</a>, studied Thai students learning Mandarin lexical tones.
+    </div>
+  </div>
+</div>
+<br>
+<hr style="height:1px;border-width:0;color:gray;background-color:gray">
+<br>
