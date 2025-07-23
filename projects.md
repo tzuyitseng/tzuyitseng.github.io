@@ -62,23 +62,33 @@ h3 {
   color: #A19F8A;
   font-family: 'Constantia', serif;
 }
+  
+  .profile-image-container {
+  text-align: right;
+  margin-bottom: 1.5em;
+}
+
+.profile-image-container img {
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+  border-radius: 50%; /* makes it circular */
+  display: inline-block;
+}
 </style>
 
-<div class="bullet-section">
-  <div class="bullet-text">
-    <p>
-      I'm always open to brainstorming new research ideas and building potential collaborations, especially within (but not limited to) my current research interests in cognitive psycho- and neurolinguistics with cross-linguistic comparison for:
-    </p>
-    <ul>
-      <li>fMRI experiments (3T sparse/continuous sequence)</li>
-      <li>multivariate pattern analysis (scikit-learn/rsatoolbox)</li>
-      <li>statistical analysis (classification using Python/R)</li>
-      <li>speech processing (Praat)</li>
-    </ul>
-    <p>Please feel free to get in touch!</p>
-  </div>
-  <img src="/assets/img/brain-icon.png" alt="brain-icon">
+I'm always open to brainstorming new research ideas and building potential collaborations, especially within (but not limited to) my current research interests in cognitive psycho- and neurolinguistics with cross-linguistic comparison for: 
+<ul>
+<li>fMRI experiments (3T sparse/continuous sequence)</li>
+<li>multivariate pattern analysis (scikit-learn/rsatoolbox)</li>
+<li>statistical analysis (classification using Python/R)</li>
+<li>speech processing (Praat)</li>
+</ul>
+
+<div class="profile-image-container">
+  <img src="/assets/img/prof_pic2.png" alt="Profile picture">
 </div>
+
 <br>
 ### Ongoing preparation & collaborations
 <hr class="gradient-divider" />
