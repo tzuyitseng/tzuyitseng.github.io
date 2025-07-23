@@ -6,7 +6,7 @@ permalink: /news/
 
 <style>
 .scroll-window {
-  max-height: 300px;   /* Adjust height */
+  max-height: 250px;   /* Adjust height */
   overflow-y: auto;
   padding: 0.5em 1em;
   border-radius: 4px;
@@ -60,7 +60,7 @@ h3 {
   </div>
 </div>
 
-#### Publication Updates
+### Publication Updates
 <hr class="gradient-divider" />
 
 <div class="scroll-window">
