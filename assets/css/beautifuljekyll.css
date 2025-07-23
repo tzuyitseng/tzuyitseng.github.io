@@ -20,7 +20,7 @@ layout: null
 
   /* common CSS variables */
   --body-font: 'Garamond', 'Times New Roman', serif;
-  --header-font: 'Constantia', 'Times New Roman', serif;
+  --header-font: 'Georgia', 'Times New Roman', serif;
   --mid-col: #808080;
 }
 
@@ -33,6 +33,7 @@ html {
 body {
   font-family: var(--body-font);
   font-size: 1.1rem;
+  font-weight: 500;
   /*font-stretch: condensed;*/
   letter-spacing: -0.5px;
   color: var(--text-col);
@@ -220,7 +221,7 @@ img {
 
 .navbar-custom .navbar-brand,
 .navbar-custom .navbar-nav .nav-link {
-  font-family: 'Constantia', 'Times New Roman', serif;
+  font-family: 'Georgia', 'Times New Roman', serif;
   font-weight: 850;
   color: var(--navbar-text-col);
 }
