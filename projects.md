@@ -5,18 +5,6 @@ permalink: /projects/
 ---
 
 <style>
-.scroll-window {
-  max-height: 180px;   /* Adjust height */
-  overflow-y: auto;
-  padding: 0.5em 1em;
-  border: 1px solid #CFBEB6;
-  border-radius: 4px;
-  background: #F7F4EE;
-  margin-bottom: 1.5em;
-  font-family: 'Constantia', serif;
-  color: #523D35;
-}
-
 .news-with-pics {
   display: flex;
   align-items: flex-start;
@@ -25,8 +13,8 @@ permalink: /projects/
 }
 
 .news-with-pics img {
-  width: 80px;
-  height: 80px;
+  width: 100px;
+  height: 100px;
   object-fit: cover;
   border-radius: 4px;
   flex-shrink: 0;
@@ -40,21 +28,17 @@ permalink: /projects/
   border: none;
   height: 1.5px;
   background: linear-gradient(to right, transparent, #A19F8A, transparent);
-  margin: 6px 0;
+  margin: 6px 0 2;
 }
 
 h3 {
   color: #A19F8A;
   font-family: 'Constantia', serif;
 }
-
-h4 {
-  color: #D9D1BE; /*8A8A70*/
-}
 </style>
 
 I'm always open to brainstorming new research ideas and building potential collaborations. Please feel free to get in touch!
-<br>
+<br><br>
 ### Ongoing preparation & collaborations
 <hr class="gradient-divider" />
 
@@ -69,26 +53,21 @@ I'm always open to brainstorming new research ideas and building potential colla
 ### Past participation
 <hr class="gradient-divider" />
 
-<div class="scroll-window">
-  <div class="news-with-pics">
-    <img src="/assets/img/anr-icon.jpg" alt="anr-icon">
-    <div><b>[2021-2025. PhD student. PI: <a href="https://anr.fr/Project-ANR-19-CE28-0015" style="text-decoration:none;">Véronique Boulenger</a>]</b>: <b>ANR AchorFL (<a href="https://languages.mit.edu/people/haohsiang-liao/" style="text-decoration:none;">ANR-19-CE28-0015</a>)</b> - Anchoring foreign language learning in the motor system, exploited embodied sensorimotor encodings of phonemes and benefits of manual gestures to enrich phonological representations in a foreign language.
-    </div>
+
+<div class="news-with-pics">
+  <img src="/assets/img/anr-icon.jpg" alt="anr-icon">
+  <div><b>[2021-2025. PhD student. PI: <a href="https://anr.fr/Project-ANR-19-CE28-0015" style="text-decoration:none;">Véronique Boulenger</a>]</b>: <b>ANR AchorFL (<a href="https://languages.mit.edu/people/haohsiang-liao/" style="text-decoration:none;">ANR-19-CE28-0015</a>)</b> - Anchoring foreign language learning in the motor system, exploited embodied sensorimotor encodings of phonemes and benefits of manual gestures to enrich phonological representations in a foreign language.
   </div>
 </div>
-<br>
+
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
 <br>
-<div class="scroll-window">
-  <div class="news-with-pics">
-    <img src="/assets/img/mitx-icon.jpg" alt="mitx-icon">
-    <div><b>[2020-2021. Assistant. PI: <a href="https://languages.mit.edu/people/haohsiang-liao/" style="text-decoration:none;">Haohsiang Liao</a>]</b>: <b>MITx: Chinese Language in Culture</b>: <a href="https://www.edx.org/learn/language/massachusetts-institute-of-technology-chinese-language-in-culture-level-1" style="text-decoration:none;">Level 1</a> & <a href="https://www.edx.org/learn/language/massachusetts-institute-of-technology-chinese-language-in-culture-level-2" style="text-decoration:none;">Level 2</a>, aimed to help the learners without prior background in the language develop skills in Mandarin Chinese to communicate and to develop an understanding of Chinese interpersonal behavioral culture and related thought patterns.
-    </div>
+<div class="news-with-pics">
+  <img src="/assets/img/mitx-icon.jpg" alt="mitx-icon">
+  <div><b>[2020-2021. Assistant. PI: <a href="https://languages.mit.edu/people/haohsiang-liao/" style="text-decoration:none;">Haohsiang Liao</a>]</b>: <b>MITx: Chinese Language in Culture</b>: <a href="https://www.edx.org/learn/language/massachusetts-institute-of-technology-chinese-language-in-culture-level-1" style="text-decoration:none;">Level 1</a> & <a href="https://www.edx.org/learn/language/massachusetts-institute-of-technology-chinese-language-in-culture-level-2" style="text-decoration:none;">Level 2</a>, aimed to help the learners without prior background in the language develop skills in Mandarin Chinese to communicate and to develop an understanding of Chinese interpersonal behavioral culture and related thought patterns.
   </div>
 </div>
-<br>
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
-<br>
 <div class="scroll-window">
   <div class="news-with-pics">
     <img src="/assets/img/moe-icon.jpg" alt="moe-icon">
@@ -109,33 +88,23 @@ I'm always open to brainstorming new research ideas and building potential colla
 <br>
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
 <br>
-<div class="scroll-window">
-  <div class="news-with-pics">
-    <img src="/assets/img/most-icon.jpg" alt="most-icon">
-    <div><b>[2018-2021. Assistant & Analyst. PI: <a href="https://ling.nccu.edu.tw/PageStaffing/Detail?fid=5959&id=1894" style="text-decoration:none;">I-Ping Wan</a>]</b>: <a href="https://www.nstc.gov.tw/?l=en" style="text-decoration:none;"><b>Ministry of Science and Technology</b> (MOST, current National Science and Technology Council) Project (MOST 107-2410-H-004-127; MOST 108-2410-H-004-098-MY2)</a>, investigated the error analysis of Thai students learning Taiwan Mandarin: a corpus-driven and cross-sectional study.
-    </div>
+<div class="news-with-pics">
+  <img src="/assets/img/most-icon.jpg" alt="most-icon">
+  <div><b>[2018-2021. Assistant & Analyst. PI: <a href="https://ling.nccu.edu.tw/PageStaffing/Detail?fid=5959&id=1894" style="text-decoration:none;">I-Ping Wan</a>]</b>: <a href="https://www.nstc.gov.tw/?l=en" style="text-decoration:none;"><b>Ministry of Science and Technology</b> (MOST, current National Science and Technology Council) Project (MOST 107-2410-H-004-127; MOST 108-2410-H-004-098-MY2)</a>, investigated the error analysis of Thai students learning Taiwan Mandarin: a corpus-driven and cross-sectional study.
   </div>
 </div>
 <br>
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
-<br>
-<div class="scroll-window">
-  <div class="news-with-pics">
-    <img src="/assets/img/most-icon.jpg" alt="most-icon">
-    <div><b>[2018-2019. Assistant & Analyst. PI: <a href="https://ling.nccu.edu.tw/PageStaffing/Detail?fid=5959&id=1894" style="text-decoration:none;">I-Ping Wan</a>]</b>: <a href="https://www.nstc.gov.tw/?l=en" style="text-decoration:none;"><b>MOST Project</b> (MOST 107-2420-H-002-007-MY3-W10806)</a>, established an academic research website for AI and machine learning in sentiment analysis: Corpora studies in natural language processing.
-    </div>
+<div class="news-with-pics">
+  <img src="/assets/img/most-icon.jpg" alt="most-icon">
+  <div><b>[2018-2019. Assistant & Analyst. PI: <a href="https://ling.nccu.edu.tw/PageStaffing/Detail?fid=5959&id=1894" style="text-decoration:none;">I-Ping Wan</a>]</b>: <a href="https://www.nstc.gov.tw/?l=en" style="text-decoration:none;"><b>MOST Project</b> (MOST 107-2420-H-002-007-MY3-W10806)</a>, established an academic research website for AI and machine learning in sentiment analysis: Corpora studies in natural language processing.
   </div>
 </div>
-<br>
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
-<br>
-<div class="scroll-window">
-  <div class="news-with-pics">
-    <img src="/assets/img/moe-icon.jpg" alt="moe-icon">
-    <div><b>[2017-2018. Assistant. PI: <a href="https://ling.nccu.edu.tw/PageStaffing/Detail?fid=5959&id=1894" style="text-decoration:none;">I-Ping Wan</a>]</b>: <a href="https://www.nstc.gov.tw/?l=en" style="text-decoration:none;"><b>MOST Project</b> (MOE 107F107016)</a>, studied Thai students learning Mandarin lexical tones.
-    </div>
+<div class="news-with-pics">
+  <img src="/assets/img/moe-icon.jpg" alt="moe-icon">
+  <div><b>[2017-2018. Assistant. PI: <a href="https://ling.nccu.edu.tw/PageStaffing/Detail?fid=5959&id=1894" style="text-decoration:none;">I-Ping Wan</a>]</b>: <a href="https://www.nstc.gov.tw/?l=en" style="text-decoration:none;"><b>MOST Project</b> (MOE 107F107016)</a>, studied Thai students learning Mandarin lexical tones.
   </div>
 </div>
-<br>
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
 <br>
