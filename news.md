@@ -55,7 +55,9 @@ h3 {
 <b>***Tzuyi Tseng is currently seeking for a postdoctoral position in neurolinguistics.***</b> Relevant leads are most welcome.<br><br>
 <li>22 July 2025: Tzuyi Tseng's personal website is now on <a href="https://tzuyitseng.github.io/">tzuyitseng.github.io</a>!</li>
 <li>21 January 2025: Tzuyi Tseng defended her doctoral thesis titled "<a href="https://hal.science/tel-04988192">Sensorimotor representations for native and non-native phoneme perception</a>"!</li>
-
+  <div class="news-with-pics">
+    <img src="/assets/img/defense.jpg" alt="defense">
+  </div>
 </div>
 
 #### Publication Updates
