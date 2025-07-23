@@ -81,6 +81,7 @@ h3 {
   </div>
   <img src="/assets/img/brain-icon.png" alt="brain-icon">
 </div>
+<br>
 ### Ongoing preparation & collaborations
 <hr class="gradient-divider" />
 
