@@ -26,17 +26,25 @@ permalink: /projects/
 
 .bullet-image-row {
   display: flex;
-  align-items: flex-top;
+  align-items: flex-start; 
+  justify-content: space-between; /* pushes items apart */
   gap: 1em;
   margin-top: 1em;
   margin-bottom: 1em;
 }
 
+.custom-bullet-list {
+  margin: 0;
+  padding: 0 1em 0 0;
+  list-style-type: disc;
+  flex-grow: 1; /* allow list to expand */
+}
+
 .bullet-image-row img {
-  width: 100px;
-  height: 100px;
+  width: 120px;
+  height: 120px;
   object-fit: contain;
-  border-radius: 10px;
+  border-radius: 1px;
   flex-shrink: 0;
 }
 
