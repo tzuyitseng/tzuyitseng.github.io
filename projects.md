@@ -13,7 +13,7 @@ permalink: /projects/
 }
 
 .news-with-pics img {
-  width: 100px;
+  width: 130px;
   height: 100px;
   object-fit: cover;
   border-radius: 4px;
@@ -61,7 +61,7 @@ my current research interests in cognitive psycho- and neurolinguistics with cro
     <li>prosodic encoding of emotions</li>
     <li>structure and access of the mental lexicon</li>
   </ul>
-  <img src="/assets/img/brain-icon.jpg" alt="brain-icon">
+  <img src="/assets/img/brain-icon.png" alt="brain-icon">
 </div>
 Please feel free to get in touch!
 <br><br>
