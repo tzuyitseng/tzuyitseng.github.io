@@ -27,7 +27,7 @@ permalink: /news/
   object-fit: cover;
   border-radius: 3px;
   flex-shrink: 0;
-  margin-top: 0em;
+  margin-top: 0.5em;
 }
 
 .news-with-pics div {
@@ -42,7 +42,7 @@ permalink: /news/
 }
 
 h3 {
-  margin-bottom: 4px;
+  margin-bottom: 2px;
   color: #A19F8A;
   font-family: 'Constantia', serif;
 }
