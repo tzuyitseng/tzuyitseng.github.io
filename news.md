@@ -25,9 +25,9 @@ permalink: /news/
   width: 250px;
   height: 160px;
   object-fit: cover;
-  border-radius: 5px;
+  border-radius: 3px;
   flex-shrink: 0;
-  margin-top: 0.5em;
+  margin-top: 0em;
 }
 
 .news-with-pics div {
@@ -38,10 +38,11 @@ permalink: /news/
   border: none;
   height: 1.5px;
   background: linear-gradient(to right, transparent, #A19F8A, transparent);
-  margin: 6px 0;
+  margin: 2px 0;
 }
 
 h3 {
+  margin-bottom: 4px;
   color: #A19F8A;
   font-family: 'Constantia', serif;
 }
