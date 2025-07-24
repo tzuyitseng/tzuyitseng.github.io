@@ -9,7 +9,7 @@ permalink: /publications/
   border: none;
   height: 1.5px;
   background: linear-gradient(to right, transparent, #A19F8A, transparent);
-  margin: 2px 0 0 1px; /*top left right bottom*/
+  margin: 2px 0 0 0; /*top left right bottom*/
 }
 
 h3 {
