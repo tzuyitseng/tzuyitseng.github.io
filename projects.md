@@ -6,7 +6,8 @@ permalink: /projects/
 
 <style>
 .custom-bullet-list {
-  margin-top: 0.5em;  /* adjust as needed */
+  margin-top: 0.1em;
+  margin-bottom: 0.1em;/* adjust as needed */
 }
 
 .news-with-pics {
