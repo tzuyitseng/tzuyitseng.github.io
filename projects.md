@@ -28,38 +28,39 @@ permalink: /projects/
   border: none;
   height: 1.5px;
   background: linear-gradient(to right, transparent, #A19F8A, transparent);
-  margin: 1em 0;
+  margin: 2px 0;
 }
 
 h3 {
+  margin-bottom: 2px;
   color: #A19F8A;
   font-family: 'Constantia', serif;
 }
   
-  .profile-image-container {
+  .brian-image-container {
   text-align: right;
   margin-bottom: 1.5em;
 }
 
-.profile-image-container img {
+.brian-image-container img {
   width: 120px;
   height: 120px;
-  object-fit: cover;
-  border-radius: 50%; /* makes it circular */
+  object-fit: contain;
+  /* border-radius: 50%; makes it circular */
   display: inline-block;
-  margin: 1em 1 2 0;
+  margin: 0em 0 6 0;  /*top left right bottom*/
 }
 </style>
 
-I'm always open to brainstorming new research ideas and building potential collaborations, especially within (but not limited to) my current research interests in cognitive psycho- and neurolinguistics with cross-linguistic comparison for: 
+I'm always open to brainstorming new research ideas and building potential collaborations, especially within (but not limited to) my current research interests in cognitive psycho- and neurolinguistics with cross-linguistic comparison, focusing on: 
 <ul class="custom-bullet-list">
-<li>fMRI experiments (3T sparse/continuous sequence)</li>
-<li>multivariate pattern analysis (scikit-learn/rsatoolbox)</li>
-<li>statistical analysis (classification using Python/R)</li>
-<li>speech processing (Praat)</li>
+  <li>sensorimotor representations in language processing</li>
+  <li>speech processing of articulatory features</li>
+  <li>prosodic encoding of emotions</li>
+  <li>structure and access of the mental lexicon</li>
 </ul>
 Please feel free to get in touch!
-<div class="profile-image-container">
+<div class="brian-image-container">
   <img src="/assets/img/brain-icon.png" alt="brain-icon">
 </div>
 
