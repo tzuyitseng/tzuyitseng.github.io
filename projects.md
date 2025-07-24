@@ -26,9 +26,9 @@ permalink: /projects/
 
 .gradient-divider {
   border: none;
-  height: 1.5px;
+  height: 2px;
   background: linear-gradient(to right, transparent, #A19F8A, transparent);
-  margin: 0 0 10px 0; /* no top margin, 10px bottom margin */
+  margin: 0 0 16px 0; /* no top margin, 10px bottom margin */
 }
 
 h3 {
