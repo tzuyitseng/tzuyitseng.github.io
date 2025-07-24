@@ -37,31 +37,33 @@ h3 {
   font-family: 'Georgia', serif;
 }
   
-.brian-image-container {
-  text-align: right;
-  margin: 0em 1em 10px 0em;  /*top left right bottom*/
+.brain-float-image {
+  float: right;
+  margin: 0 0 10px 20px;
 }
 
-.brian-image-container img {
+.brain-float-image img {
   width: 120px;
   height: 120px;
   object-fit: contain;
-  /*border-radius: 50%;  makes it circular */
-  display: inline-block;
+  border-radius: 4px;
 }
 </style>
 
-I'm always open to brainstorming new research ideas and building potential collaborations, especially within (but not limited to) my current research interests in cognitive psycho- and neurolinguistics with cross-linguistic comparison, focusing on: 
+<div class="brain-float-image">
+  <img src="/assets/img/brain-icon.png" alt="brain icon">
+</div>
+<p>
+I'm always open to brainstorming new research ideas and building potential collaborations, especially within (but not limited to) my current research interests in cognitive psycho- and neurolinguistics with cross-linguistic comparison, focusing on:
+</p>
 <ul class="custom-bullet-list">
   <li>sensorimotor representations in language processing</li>
   <li>speech processing of articulatory features</li>
   <li>prosodic encoding of emotions</li>
   <li>structure and access of the mental lexicon</li>
 </ul>
-Please feel free to get in touch!
-<div class="brian-image-container">
-  <img src="/assets/img/brain-icon.png" alt="brain-icon">
-</div>
+<p>Please feel free to get in touch!</p><br>
+
 ### Ongoing preparation & collaborations
 <hr class="gradient-divider" />
 
