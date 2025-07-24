@@ -15,7 +15,8 @@ use-site-title: true
 .fancy-divider hr {
   flex-grow: 1;
   border: none;
-  height: 2.5px;
+  height: 2px;
+  min-height: 2px;
   background: linear-gradient(to right, transparent, #A19F8A, transparent);
   margin: 0;
 }
@@ -24,6 +25,10 @@ use-site-title: true
   color: #CFBEB6;
   font-size: 1.5em;
   user-select: none;
+}
+
+.fancy-divider hr {
+  box-sizing: border-box;
 }
 </style>
 
