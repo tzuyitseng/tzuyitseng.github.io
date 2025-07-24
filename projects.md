@@ -28,11 +28,11 @@ permalink: /projects/
   border: none;
   height: 1.5px;
   background: linear-gradient(to right, transparent, #A19F8A, transparent);
-  margin: 1em 0 0 2em;  /*top left right bottom*/
+  margin: 2em 0 0 2em;  /*top left right bottom*/
 }
 
 h3 {
-  margin-bottom: 2px;
+  margin-bottom: 0.5px;
   color: #A19F8A;
   font-family: 'Constantia', serif;
 }
