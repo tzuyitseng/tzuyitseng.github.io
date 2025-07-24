@@ -39,10 +39,11 @@ h3 {
   
 .brain-section {
   display: flex;
-  align-items: center; /* vertically center image with text */
-  justify-content: space-between; /* push text left, image right */
+  align-items: center;
+  justify-content: space-between;
   gap: 1em;
   margin-bottom: 1.5em;
+  flex-wrap: wrap; /* Allow wrapping on smaller screens */
 }
 
 .brain-text {
@@ -53,7 +54,21 @@ h3 {
   width: 120px;
   height: 120px;
   object-fit: contain;
-  border-radius: 6px;
+  border-radius: 4px;
+  margin-top: 10px;
+}
+
+/* Responsive behavior for smaller screens such as phone*/
+@media (max-width: 768px) {
+  .brain-section {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .brain-image-container {
+    align-self: center; /* Center image under text */
+    margin-top: 1em;
+  }
 }
 </style>
 
