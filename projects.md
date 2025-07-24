@@ -28,7 +28,7 @@ permalink: /projects/
   border: none;
   height: 2px;
   background: linear-gradient(to right, transparent, #A19F8A, transparent);
-  margin: 0 0 16px 0; /* no top margin, 10px bottom margin */
+  margin: 0 0 16px 0; 
 }
 
 h3 {
@@ -55,7 +55,7 @@ h3 {
   height: 120px;
   object-fit: contain;
   border-radius: 4px;
-  margin-top: 20px;
+  margin-top: 40px;
 }
 
 /* Responsive behavior for smaller screens such as phone*/
@@ -68,6 +68,7 @@ h3 {
   .brain-image-container {
     align-self: center; /* Center image under text */
     margin-top: 0;
+    margin-bottom: 10px;
   }
 }
 </style>
