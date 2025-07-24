@@ -20,6 +20,7 @@ h3 {
 
 h4 {
   color: #D9D1BE; /*8A8A70*/
+  font-family: 'Georgia', serif;
 }
 
 .publication-entry p {
