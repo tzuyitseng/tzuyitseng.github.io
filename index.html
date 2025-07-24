@@ -31,10 +31,19 @@ use-site-title: true
   box-sizing: border-box;
 }
 </style>
-
-<h1 style="font-family: 'Georgia', 'Times New Roman', serif; text-align: center; font-size: 24px; margin-bottom: 1em;">
-  Hi, I'm Tzuyi : )
+<h1 id="greeting" style="font-family: 'Georgia', 'Times New Roman', serif; text-align: center; font-size: 24px; margin-bottom: 1em;">
 </h1>
+
+<script>
+  const greetings = [
+    "Hi, I'm Tzuyi :)",
+    "Hi, I'm Tzuyi 🐰",
+    "Hi, I'm Tzuyi ❁"
+  ];
+
+  const randomGreeting = greetings[Math.floor(Math.random() * greetings.length)];
+  document.getElementById('greeting').textContent = randomGreeting;
+</script>
 
 <div class="fancy-divider">
   <hr>
