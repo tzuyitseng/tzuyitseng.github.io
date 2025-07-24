@@ -78,11 +78,9 @@ h3 {
 }
 </style>
 
+I'm always open to brainstorming new research ideas and building potential collaborations, especially within (but not limited to) my current research interests in cognitive psycho- and neurolinguistics with cross-linguistic comparison, focusing on:
 <div class="brain-section">
   <div class="brain-text">
-    <p>
-      I'm always open to brainstorming new research ideas and building potential collaborations, especially within (but not limited to) my current research interests in cognitive psycho- and neurolinguistics with cross-linguistic comparison, focusing on:
-    </p>
     <ul class="custom-bullet-list">
       <li>sensorimotor representations in language processing</li>
       <li>speech processing of articulatory features</li>
