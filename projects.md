@@ -61,6 +61,7 @@ h3 {
   object-fit: contain;
   border-radius: 4px;
   margin-top: 10px;
+  margin-right: 10px;
 }
 
 /* Responsive behavior for smaller screens such as phone*/
