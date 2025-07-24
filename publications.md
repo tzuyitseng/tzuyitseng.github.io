@@ -9,10 +9,11 @@ permalink: /publications/
   border: none;
   height: 1.5px;
   background: linear-gradient(to right, transparent, #A19F8A, transparent);
-  margin: 6px 0;
+  margin: 2px 0;
 }
 
 h3 {
+  margin-bottom: 2px;
   color: #A19F8A;
   font-family: 'Constantia', serif;
 }
