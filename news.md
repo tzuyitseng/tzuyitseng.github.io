@@ -44,7 +44,7 @@ permalink: /news/
 h3 {
   margin-bottom: 2px;
   color: #A19F8A;
-  font-family: 'Constantia', serif;
+  font-family: 'Georgia', serif;
 }
 </style>
 
