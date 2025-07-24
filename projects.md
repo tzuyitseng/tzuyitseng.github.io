@@ -79,7 +79,7 @@ h3 {
 }
 </style>
 
-I'm always open to brainstorming new research ideas and building potential collaborations, especially within (but not limited to) my current research interests in cognitive psycho- and neurolinguistics with cross-linguistic comparison, focusing on:
+Having recently defended my doctoral thesis (January 2025), I am actively and autonomously developing my research career. I'm always open to brainstorming new research ideas and building potential collaborations, especially within (but not limited to) my current research interests in cognitive psycho- and neurolinguistics with cross-linguistic comparison, focusing on:
 <div class="brain-section">
   <div class="brain-text">
     <ul class="custom-bullet-list">
