@@ -28,7 +28,7 @@ permalink: /projects/
   border: none;
   height: 1.5px;
   background: linear-gradient(to right, transparent, #A19F8A, transparent);
-  margin: 2px 0;
+  margin: 2em 0 0 2;  /*top left right bottom*/
 }
 
 h3 {
@@ -37,7 +37,7 @@ h3 {
   font-family: 'Constantia', serif;
 }
   
-  .brian-image-container {
+.brian-image-container {
   text-align: right;
   margin: 0em 0 12 1;  /*top left right bottom*/
 }
@@ -63,7 +63,8 @@ Please feel free to get in touch!
   <img src="/assets/img/brain-icon.png" alt="brain-icon">
 </div>
 ### Ongoing preparation & collaborations
-<hr class="gradient-divider" /><br>
+<hr class="gradient-divider" />
+
 <li>Independently developing a funding application for a new research project led by <u>Tzuyi Tseng</u> on cortical emotion recognition across languages. <B>Open to collaborations</B>.</li>
 <li>Conducting a preliminary investigation of cross-linguistic emotion recognition in French and Mandarin verbal phrases and non-verbal vocalizations, in collaboration with <a href="http://www.ddl.cnrs.fr/Annuaires/Index.asp?Langue=FR&Page=Aitana%20GARCIA%20ARASCO" style="text-decoration:none;">Aitana Garcia Arasco</a> (DDL & ENES), Saint-Etienne, France.</li>
 <li>Serving as an external collaborator on the Inidex EFL project: the grammatical encoding of expressivity and emotions, in collaboration with <a href="http://www.llf.cnrs.fr/fr/Gens/Brunetti" style="text-decoration:none;">Lisa Brunetti</a> (Université Paris Cité) with an ongoing funding application through <a href="http://www.llf.cnrs.fr" style="text-decoration:none;">Laboratoire de Linguistique Formelle</a>, Paris, France.</li>
