@@ -56,8 +56,8 @@ h3 {
 }
 
 .brain-image-container img {
-  width: 120px;
-  height: 120px;
+  width: 150px;
+  height: 150px;
   object-fit: contain;
   border-radius: 4px;
   margin-top: 10px;
