@@ -28,7 +28,7 @@ permalink: /projects/
   border: none;
   height: 1.5px;
   background: linear-gradient(to right, transparent, #A19F8A, transparent);
-  margin: 0 0 4px 0; /* no top margin, 10px bottom margin */
+  margin: 0 0 6px 0; /* no top margin, 10px bottom margin */
 }
 
 h3 {
