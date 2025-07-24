@@ -28,7 +28,7 @@ permalink: /projects/
   border: none;
   height: 1.5px;
   background: linear-gradient(to right, transparent, #A19F8A, transparent);
-  margin: 2em 0 0 2;  /*top left right bottom*/
+  margin: 2em;  /*top left right bottom*/
 }
 
 h3 {
@@ -39,7 +39,7 @@ h3 {
   
 .brian-image-container {
   text-align: right;
-  margin: 0em 0 12 1;  /*top left right bottom*/
+  margin: 0em 1em 10px 0em;  /*top left right bottom*/
 }
 
 .brian-image-container img {
@@ -104,7 +104,7 @@ Please feel free to get in touch!
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
 <div class="news-with-pics">
   <img src="/assets/img/most-icon.png" alt="most-icon">
-  <div>[<b>2018 - 2021. Assistant & Analyst.</b> PI: <a href="https://ling.nccu.edu.tw/PageStaffing/Detail?fid=5959&id=1894" style="text-decoration:none;">I-Ping Wan</a> <a href="https://www.nstc.gov.tw/?l=en" style="text-decoration:none;"><b>Ministry of Science and Technology</b></a> (MOST, current National Science and Technology Council) Project (MOST 107-2410-H-004-127; MOST 108-2410-H-004-098-MY2), investigated the error analysis of Thai students learning Taiwan Mandarin: a corpus-driven and cross-sectional study.
+  <div>[<b>2018 - 2021. Assistant & Analyst.</b> PI: <a href="https://ling.nccu.edu.tw/PageStaffing/Detail?fid=5959&id=1894" style="text-decoration:none;">I-Ping Wan</a>. <a href="https://www.nstc.gov.tw/?l=en" style="text-decoration:none;"><b>Ministry of Science and Technology</b></a> (MOST, current National Science and Technology Council) Project (MOST 107-2410-H-004-127; MOST 108-2410-H-004-098-MY2), investigated the error analysis of Thai students learning Taiwan Mandarin: a corpus-driven and cross-sectional study.
   </div>
 </div>
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
@@ -116,7 +116,7 @@ Please feel free to get in touch!
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
 <div class="news-with-pics">
   <img src="/assets/img/moe-icon.png" alt="moe-icon">
-  <div>[<b>2017 - 2018. Assistant. PI: <a href="https://ling.nccu.edu.tw/PageStaffing/Detail?fid=5959&id=1894" style="text-decoration:none;">I-Ping Wan</a></b>.]: <a href="https://www.nstc.gov.tw/?l=en" style="text-decoration:none;"><b>MOST Project</b></a> (MOE 107F107016), studied Thai students learning Mandarin lexical tones.
+  <div><b>2017 - 2018. Assistant.</b> PI: <a href="https://ling.nccu.edu.tw/PageStaffing/Detail?fid=5959&id=1894" style="text-decoration:none;">I-Ping Wan</a>. <a href="https://www.nstc.gov.tw/?l=en" style="text-decoration:none;"><b>MOST Project</b></a> (MOE 107F107016), studied Thai students learning Mandarin lexical tones.
   </div>
 </div>
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
