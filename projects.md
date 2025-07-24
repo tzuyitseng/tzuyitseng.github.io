@@ -5,6 +5,10 @@ permalink: /projects/
 ---
 
 <style>
+.custom-bullet-list {
+  margin-top: 0.5em;  /* adjust as needed */
+}
+
 .news-with-pics {
   display: flex;
   align-items: flex-start;
