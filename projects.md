@@ -28,13 +28,13 @@ permalink: /projects/
   border: none;
   height: 1.5px;
   background: linear-gradient(to right, transparent, #A19F8A, transparent);
-  margin: 2em 0 0 2em;  /*top left right bottom*/
+  margin: 2px 0;
 }
 
 h3 {
-  margin-bottom: 0.5px;
+  margin-bottom: 2px;
   color: #A19F8A;
-  font-family: 'Constantia', serif;
+  font-family: 'Georgia', serif;
 }
   
 .brian-image-container {
