@@ -37,32 +37,43 @@ h3 {
   font-family: 'Georgia', serif;
 }
   
-.brain-float-image {
-  float: right;
-  margin: 0 0 10px 20px;
+.brain-section {
+  display: flex;
+  align-items: center; /* vertically center image with text */
+  justify-content: space-between; /* push text left, image right */
+  gap: 1em;
+  margin-bottom: 1.5em;
 }
 
-.brain-float-image img {
+.brain-text {
+  flex: 1;
+}
+
+.brain-image-container img {
   width: 120px;
   height: 120px;
   object-fit: contain;
-  border-radius: 4px;
+  border-radius: 6px;
 }
 </style>
 
-<div class="brain-float-image">
-  <img src="/assets/img/brain-icon.png" alt="brain icon">
+<div class="brain-section">
+  <div class="brain-text">
+    <p>
+      I'm always open to brainstorming new research ideas and building potential collaborations, especially within (but not limited to) my current research interests in cognitive psycho- and neurolinguistics with cross-linguistic comparison, focusing on:
+    </p>
+    <ul class="custom-bullet-list">
+      <li>sensorimotor representations in language processing</li>
+      <li>speech processing of articulatory features</li>
+      <li>prosodic encoding of emotions</li>
+      <li>structure and access of the mental lexicon</li>
+    </ul>
+    <p>Please feel free to get in touch!</p>
+  </div>
+  <div class="brain-image-container">
+    <img src="/assets/img/brain-icon.png" alt="brain icon">
+  </div>
 </div>
-<p>
-I'm always open to brainstorming new research ideas and building potential collaborations, especially within (but not limited to) my current research interests in cognitive psycho- and neurolinguistics with cross-linguistic comparison, focusing on:
-</p>
-<ul class="custom-bullet-list">
-  <li>sensorimotor representations in language processing</li>
-  <li>speech processing of articulatory features</li>
-  <li>prosodic encoding of emotions</li>
-  <li>structure and access of the mental lexicon</li>
-</ul>
-<p>Please feel free to get in touch!</p><br>
 
 ### Ongoing preparation & collaborations
 <hr class="gradient-divider" />
