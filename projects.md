@@ -55,7 +55,7 @@ h3 {
   height: 120px;
   object-fit: contain;
   border-radius: 4px;
-  margin-top: 10px;
+  margin-top: 20px;
 }
 
 /* Responsive behavior for smaller screens such as phone*/
@@ -67,7 +67,7 @@ h3 {
 
   .brain-image-container {
     align-self: center; /* Center image under text */
-    margin-top: 1em;
+    margin-top: 0;
   }
 }
 </style>
