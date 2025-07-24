@@ -28,7 +28,7 @@ permalink: /projects/
   border: none;
   height: 1.5px;
   background: linear-gradient(to right, transparent, #A19F8A, transparent);
-  margin: 2em;  /*top left right bottom*/
+  margin: 2em 0 0 2;  /*top left right bottom*/
 }
 
 h3 {
@@ -82,7 +82,7 @@ Please feel free to get in touch!
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
 <div class="news-with-pics">
   <img src="/assets/img/mitx-icon.png" alt="mitx-icon">
-  <div><b>2020 - 2021. Assistant.</b> PI: <a href="https://languages.mit.edu/people/haohsiang-liao/" style="text-decoration:none;">Haohsiang Liao</a>. Online <b>MITx MOOCs</b> courses - MITx: Chinese Language in Culture: <a href="https://www.edx.org/learn/language/massachusetts-institute-of-technology-chinese-language-in-culture-level-1" style="text-decoration:none;">Level 1</a> & <a href="https://www.edx.org/learn/language/massachusetts-institute-of-technology-chinese-language-in-culture-level-2" style="text-decoration:none;">Level 2</a>, aimed to help the learners without prior background in the language develop skills in Mandarin Chinese to communicate and to develop an understanding of Chinese interpersonal behavioral culture and related thought patterns.
+  <div><b>2020 - 2021. Assistant.</b> PI: <a href="https://languages.mit.edu/people/haohsiang-liao/" style="text-decoration:none;">Haohsiang Liao</a>. Online <b>MITx MOOCs</b> courses - MITx: Chinese Language in Culture: <a href="https://www.edx.org/learn/language/massachusetts-institute-of-technology-chinese-language-in-culture-level-1" style="text-decoration:none;">Level 1</a> & <a href="https://www.edx.org/learn/language/massachusetts-institute-of-technology-chinese-language-in-culture-level-2" style="text-decoration:none;">Level 2</a>, aimed to help the learners without prior background in Mandarin Chinese to communicate and to develop an understanding of Chinese interpersonal behavioral culture and related thought patterns.
   </div>
 </div>
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
