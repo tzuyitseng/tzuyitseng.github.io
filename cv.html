@@ -3,11 +3,21 @@ layout: page
 title: ""
 use-site-title: true
 ---
+<style>
+  /* Style only the "here" link inside the notice */
+  #mobile-notice a {
+    color: #959D90;
+    text-decoration: none;
+    font-weight: bold;
+    cursor: pointer;
+  }
+</style>
 
 <!-- Notice bar for mobile -->
-Welcome! Loading may take a few minutes on mobile; you can also download my CV 
-<a href="/assets/CurriculumVitae_TTseng.pdf" download style="color:blue; font-weight:bold; text-decoration:underline; cursor:pointer;">here</a>.
-
+<div id="mobile-notice" style="display:none; text-align:center; font-family: inherit; margin-bottom: 1em;">
+  Welcome! Loading may take a few minutes on mobile; you can also download my CV
+  <a href="/assets/CurriculumVitae_TTseng.pdf" download>here</a>.
+</div>
 
 <div id="pdf" style="height: 800px;"></div>
 <script src="/assets/js/pdfobject.min.js"></script>
