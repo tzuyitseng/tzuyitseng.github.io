@@ -14,6 +14,17 @@ permalink: /news/
   margin-top: 1em;
 }
 
+.scroll-window::after {
+  content: "";
+  display: block;
+  height: 30px;
+  background: linear-gradient(to bottom, rgba(255,255,255,0), rgba(255,255,255,1));
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
 .news-with-pics {
   display: flex;
   align-items: flex-start;
