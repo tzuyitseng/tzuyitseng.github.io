@@ -243,10 +243,9 @@ img {
 }
 
 @media (min-width: 1200px) {
-  .navbar-custom .container {
-    max-width: 100%;
-    padding-left: 6rem;
-    padding-right: 6rem;
+  .navbar-custom {
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
   }
 
   .navbar-custom .navbar-brand-logo {
@@ -264,7 +263,7 @@ img {
   }
 
   .navbar-expand-xl .navbar-nav .nav-item:not(.dropdown):last-child .nav-link {
-    padding-right: 0;
+    padding-right: 2rem;
   }
 }
 
