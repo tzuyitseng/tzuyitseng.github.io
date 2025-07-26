@@ -247,7 +247,11 @@ img {
     padding-top: 1.25rem;
     padding-bottom: 1.25rem;
   }
-
+  
+  .navbar-custom .navbar-brand {
+    padding-left: 2rem;
+  }
+  
   .navbar-custom .navbar-brand-logo {
     padding-top: 0;
     padding-bottom: 0;
