@@ -19,7 +19,7 @@ layout: null
   --footer-hover-col: {{ site.footer-hover-col | default: "#0085A1" }};
 
   /* common CSS variables */
-  --body-font: 'Trebuchet MS', sans-serif;
+  --body-font: 'Arial', sans-serif;
   --header-font: 'Georgia', 'Times New Roman', serif;
   --mid-col: #808080;
 }
@@ -33,7 +33,7 @@ html {
 body {
   font-family: var(--body-font);
   font-size: 1.1rem;
-  font-weight: 500;
+  font-weight: 400;
   letter-spacing: -0.2px;
   color: var(--text-col);
   position: relative;
