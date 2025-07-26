@@ -246,6 +246,8 @@ img {
   .navbar-custom {
     padding-top: 1.25rem;
     padding-bottom: 1.25rem;
+    padding-left: 2rem;  
+    padding-right: 2rem; /* added */
   }
 
   .navbar-custom .navbar-brand-logo {
