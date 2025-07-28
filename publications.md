@@ -40,6 +40,7 @@ h4 {
   cursor: pointer;
   border-radius: 3px;
   font-size: 0.7em;
+  letter-spacing: 0;
   color: #523D35; /* <-- Explicitly set text color */
   text-decoration: none; /* <-- Remove underline */
   font-family: inherit; /* Optional: keep font consistent */
