@@ -29,6 +29,10 @@ layout: null
 html {
   font-size: 100%
 }
+                       
+b, strong {
+  font-weight: 700;
+}
 
 body {
   font-family: var(--body-font);
