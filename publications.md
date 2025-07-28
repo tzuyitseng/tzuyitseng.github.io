@@ -66,6 +66,7 @@ a.link-btn, a.link-btn:visited {
   border-radius: 3px;
   display: none;
   font-size: 0.9em;
+  letter-spacing: -0.1px;
 }
 </style>
 
