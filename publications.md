@@ -38,8 +38,8 @@ h4 {
   border: none;
   padding: 0.3em 0.7em;
   cursor: pointer;
-  border-radius: 3px;
-  font-size: 0.7em;
+  border-radius: 3.5px;
+  font-size: 1em;
   letter-spacing: 0;
   color: #523D35; /* <-- Explicitly set text color */
   text-decoration: none; /* <-- Remove underline */
@@ -48,7 +48,6 @@ h4 {
   line-height: 1.2;
   min-width: 2.5em; /* ensures consistent width */
   text-align: center;
-
 }
 
 /* Prevent Safari styling from affecting buttons inside <a> */
