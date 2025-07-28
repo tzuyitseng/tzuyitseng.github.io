@@ -94,7 +94,6 @@ Having recently defended my doctoral thesis (January 2025), I am actively and au
     <img src="/assets/img/brain-icon.png" alt="brain icon">
   </div>
 </div>
-
 ### Ongoing preparation & collaborations
 <hr class="gradient-divider" />
 
@@ -103,7 +102,6 @@ Having recently defended my doctoral thesis (January 2025), I am actively and au
 <li>Serving as an external collaborator on the Inidex EFL project: the grammatical encoding of expressivity and emotions, in collaboration with <a href="http://www.llf.cnrs.fr/fr/Gens/Brunetti" style="text-decoration:none;">Lisa Brunetti</a> (Université Paris Cité), with an ongoing funding application through <a href="http://www.llf.cnrs.fr" style="text-decoration:none;">Laboratoire de Linguistique Formelle</a>, Paris, France.</li>
 <li>Developing a funding application for a research project led by <a href="https://lnalborczyk.github.io/" style="text-decoration:none;">Ladislas Nalborczyk</a> (CNRS), Aix-en-Provence, France, on uncovering the neural dynamics of inner speech from EEG signals.</li>
 <li>Developing a funding application for a new research project co-led by <u>Tzuyi Tseng</u> on articulatory imagery in foreign language learning, in collaboration with <a href="https://lnalborczyk.github.io/" style="text-decoration:none;">Ladislas Nalborczyk</a> (CNRS), Aix-en-Provence, France.</li>
-<br>
 ### Past participation
 <hr class="gradient-divider" />
 
