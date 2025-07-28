@@ -38,8 +38,8 @@ h4 {
   border: none;
   padding: 0.3em 0.7em;
   cursor: pointer;
-  border-radius: 3.5px;
-  font-size: 1em;
+  border-radius: 3px;
+  font-size: 0.8em;
   letter-spacing: 0;
   color: #523D35; /* <-- Explicitly set text color */
   text-decoration: none; /* <-- Remove underline */
