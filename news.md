@@ -6,7 +6,7 @@ permalink: /news/
 
 <style>
 .scroll-window {
-  max-height: 280px;   /* Adjust height */
+  max-height: 310px;   /* Adjust height */
   overflow-y: auto;
   padding: 0.5em 1em;
   border-radius: 4px;
@@ -54,7 +54,7 @@ Updated news and scientific activities from 2025. More details and earlier event
 
 <div class="scroll-window">
 
-<b>***Tzuyi Tseng is currently seeking a postdoctoral position in neurolinguistics.***</b> Relevant leads are most welcome.<br><br>
+<li><b>***Tzuyi Tseng is currently seeking a postdoctoral position in neurolinguistics.***</b> Relevant leads are most welcome.</li>
 <li>22 July 2025: Tzuyi Tseng's personal website is now on <a href="https://tzuyitseng.github.io/">tzuyitseng.github.io</a>!</li>
 <li>21 January 2025: Tzuyi Tseng defended her doctoral thesis titled "<a href="https://hal.science/tel-04988192">Sensorimotor representations for native and non-native phoneme perception</a>"!</li>
   <div class="news-with-pics">
