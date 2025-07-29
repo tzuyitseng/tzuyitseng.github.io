@@ -7,7 +7,7 @@ permalink: /projects/
 <style>
 .custom-bullet-list {
   margin-top: 0;
-  margin-bottom: 0;/* adjust as needed */
+  margin-bottom: 1em;/* adjust as needed */
 }
 
 .news-with-pics {
@@ -97,11 +97,11 @@ Having recently defended my doctoral thesis (January 2025), I am actively and au
 ### Ongoing preparation & collaborations
 <hr class="gradient-divider" />
 <ul class="custom-bullet-list">
-  <li><B>Emotion</B>. Independently developing a funding application for a new research project led by <u>Tzuyi Tseng</u> on cortical emotion recognition across languages; <B>open to collaborations</B>.</li>
-  <li><B>Emotion</B>. Conducting a preliminary investigation of cross-linguistic emotion recognition in French and Mandarin verbal phrases and non-verbal vocalizations, in collaboration with <a href="http://www.ddl.cnrs.fr/Annuaires/Index.asp?Langue=FR&Page=Aitana%20GARCIA%20ARASCO" style="text-decoration:none;">Aitana Garcia Arasco</a> (DDL & ENES), Saint-Etienne, France.</li>
-  <li><B>Emotion</B>. Serving as an external collaborator on the Inidex EFL project: the grammatical encoding of expressivity and emotions, in collaboration with <a href="http://www.llf.cnrs.fr/fr/Gens/Brunetti" style="text-decoration:none;">Lisa Brunetti</a> (Université Paris Cité), with an ongoing funding application through <a href="http://www.llf.cnrs.fr" style="text-decoration:none;">Laboratoire de Linguistique Formelle</a>, Paris, France.</li>
-  <li><B>Inner speech</B>. Developing a funding application for a research project led by <a href="https://lnalborczyk.github.io/" style="text-decoration:none;">Ladislas Nalborczyk</a> (CNRS), Aix-en-Provence, France, on uncovering the neural dynamics of inner speech from EEG signals.</li>
-  <li><B>Articulatory imagery</B>. Developing a funding application for a new research project co-led by <u>Tzuyi Tseng</u> on articulatory imagery in foreign language learning, in collaboration with <a href="https://lnalborczyk.github.io/" style="text-decoration:none;">Ladislas Nalborczyk</a> (CNRS), Aix-en-Provence, France.</li></ul>
+  <li><B>Emotion.</B> Independently developing a funding application for a new research project led by <u>Tzuyi Tseng</u> on cortical emotion recognition across languages; <B>open to collaborations</B>.</li>
+  <li><B>Emotion.</B> Conducting a preliminary investigation of cross-linguistic emotion recognition in French and Mandarin verbal phrases and non-verbal vocalizations, in collaboration with <a href="http://www.ddl.cnrs.fr/Annuaires/Index.asp?Langue=FR&Page=Aitana%20GARCIA%20ARASCO" style="text-decoration:none;">Aitana Garcia Arasco</a> (DDL & ENES), Saint-Etienne, France.</li>
+  <li><B>Emotion.</B> Serving as an external collaborator on the Inidex EFL project: the grammatical encoding of expressivity and emotions, in collaboration with <a href="http://www.llf.cnrs.fr/fr/Gens/Brunetti" style="text-decoration:none;">Lisa Brunetti</a> (Université Paris Cité), with an ongoing funding application through <a href="http://www.llf.cnrs.fr" style="text-decoration:none;">Laboratoire de Linguistique Formelle</a>, Paris, France.</li>
+  <li><B>Inner speech.</B> Developing a funding application for a research project led by <a href="https://lnalborczyk.github.io/" style="text-decoration:none;">Ladislas Nalborczyk</a> (CNRS), Aix-en-Provence, France, on uncovering the neural dynamics of inner speech from EEG signals.</li>
+  <li><B>Articulatory imagery.</B> Developing a funding application for a new research project co-led by <u>Tzuyi Tseng</u> on articulatory imagery in foreign language learning, in collaboration with <a href="https://lnalborczyk.github.io/" style="text-decoration:none;">Ladislas Nalborczyk</a> (CNRS), Aix-en-Provence, France.</li></ul>
 ### Past participation
 <hr class="gradient-divider" />
 
