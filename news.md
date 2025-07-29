@@ -6,7 +6,7 @@ permalink: /news/
 
 <style>
 .scroll-window {
-  max-height: 300px;   /* Adjust height */
+  max-height: 280px;   /* Adjust height */
   overflow-y: auto;
   padding: 0.5em 1em;
   border-radius: 4px;
