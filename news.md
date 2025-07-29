@@ -56,7 +56,7 @@ Updated news and scientific activities from 2025. More details and earlier event
 
 <li>🚨<b>Tzuyi Tseng is currently seeking a postdoctoral position in neurolinguistics.</b> Relevant leads are most welcome.</li>
 <li>🚀22 July 2025: Tzuyi Tseng's personal website is now on <a href="https://tzuyitseng.github.io/">tzuyitseng.github.io</a>!</li>
-<li>💰20 May 2025: Tzuyi Tseng recived <a href="http://www.ddl.cnrs.fr/">DDL</a> research funding for the organization of a <a href="https://ohbm-dic.github.io/kidsreview/2025/mandarin_session/">one-day public seminar</a> for local young children to learn science as a part of OHBM 2025 annual conference.</li>
+<li>💰20 May 2025: Tzuyi Tseng recived <a href="http://www.ddl.cnrs.fr/">DDL</a> research funding to organize a <a href="https://ohbm-dic.github.io/kidsreview/2025/mandarin_session/">one-day public seminar</a> for local young children to learn about science as part of OHBM 2025 annual conference.</li>
 <li>🎉21 January 2025: Tzuyi Tseng defended her doctoral thesis titled "<a href="https://hal.science/tel-04988192">Sensorimotor representations for native and non-native phoneme perception</a>"!</li>
   <div class="news-with-pics">
     <img src="/assets/img/defense.jpg" alt="defense">
@@ -94,7 +94,7 @@ Updated news and scientific activities from 2025. More details and earlier event
 
 <li>03 July 2025: Tzuyi Tseng gave a laboratory presentation titled "What do know about emotion, language and the brain? A glimpse into current research." at <a href="https://www.crnl.fr/fr/equipe/impact">ImpAct</a> Journal Club, CRNL, Bron, France. <a href="https://bsky.app/profile/tzuyitseng.bsky.social/post/3lt2thpfgsk2p">🖼️</a></li>
 <li>24 June 2025: Tzuyi Tseng gave a laboratory presentation titled "First steps toward emotion recognition across languages: a preliminary behavioral and fMRI protocol." at <a href="http://www.ddl.cnrs.fr/">DDL</a> Club PAD (Protocole à la Demande/Protocol on Demand), Lyon, France. <a href="https://bsky.app/profile/tzuyitseng.bsky.social/post/3lsh6fxqa3223">🖼️</a></li>
-<li>21 June 2025 2025: Tzuyi Tseng organized a <b>public seminar</b> "The Brain Talks Seminar" for local kids to learn more about neurolinguistics, with <a href="http://www.ddl.cnrs.fr/Anselme" style="text-decoration:none;">Rémi Anselme</a> and <a href="http://www.ddl.cnrs.fr/Song" style="text-decoration:none;">Jin-Ke Song</a>, as the <a href="https://ohbm-dic.github.io/kidsreview/2025/mandarin_session/">Brain Mappers of Tomorrow Satellite Mandarin Session in Lyon, France</a>, a part of 2025 Human Brain Mapping <a href="https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=4229">(OHBM)</a> annual meeting, Brisbane, Australia.</li>
+<li>21 June 2025 2025: Tzuyi Tseng organized a <b>public seminar</b> "The Brain Talks Seminar" for local kids to learn about neurolinguistics, with <a href="http://www.ddl.cnrs.fr/Anselme" style="text-decoration:none;">Rémi Anselme</a> and <a href="http://www.ddl.cnrs.fr/Song" style="text-decoration:none;">Jin-Ke Song</a>, as the <a href="https://ohbm-dic.github.io/kidsreview/2025/mandarin_session/">Brain Mappers of Tomorrow Satellite Mandarin Session in Lyon, France</a>, as part of 2025 Human Brain Mapping <a href="https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=4229">(OHBM)</a> annual meeting, Brisbane, Australia.</li>
   <div class="news-with-pics">
     <img src="/assets/img/seminar_BMT2025.jpg" alt="seminar_BMT2025">
   </div>
