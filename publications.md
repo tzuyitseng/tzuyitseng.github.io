@@ -84,7 +84,7 @@ a.link-btn, a.link-btn:visited {
 
   <div class="button-group">
     <a class="link-btn" href="javascript:void(0);" onclick="toggleAbstract(this)">ABS</a>
-    <a class="link-btn" href="https://doi.org/10.31234/osf.io/fqwe8" target="_blank">PDF</a>
+    <a class="link-btn" href="https://shs.hal.science/halshs-04836272v2" target="_blank">PDF</a>
   </div>
 
   <div class="abstract-box" style="display:none;">
