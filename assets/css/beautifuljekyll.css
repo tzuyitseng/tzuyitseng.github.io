@@ -422,7 +422,9 @@ footer {
   padding: 1.875rem 0;
   border-top: 1px var(--footer-col) solid;
   margin-top: 3.125rem;
+  font-family: "Times New Roman", Times, serif;
   font-size: 0.875rem;
+  letter-spacing: 3;
   background-color: var(--footer-col);
   {% if site.footer-img %}
     background-image: url({{ site.footer-img | relative_url }});
@@ -470,7 +472,7 @@ footer .theme-by {
 footer .footer-custom-content {
   text-align: center;
   margin-bottom: 0.9375rem;
-  font-family: var(--header-font);
+  font-family: "Times New Roman", Times, serif;
 }
 
 @media (min-width: 768px) {
