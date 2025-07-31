@@ -423,8 +423,8 @@ footer {
   border-top: 1px var(--footer-col) solid;
   margin-top: 3.125rem;
   font-family: "Times New Roman", Times, serif;
-  font-size: 0.875rem;
-  letter-spacing: 3;
+  font-size: 0.95rem;
+  letter-spacing: 0;
   background-color: var(--footer-col);
   {% if site.footer-img %}
     background-image: url({{ site.footer-img | relative_url }});
@@ -461,6 +461,8 @@ footer .list-inline .list-inline-item {
 }
 footer .copyright {
   font-family: "Times New Roman", Times, serif;
+  font-size: 0.95rem;
+  letter-spacing: 0;
   text-align: center;
   margin-bottom: 0;
   margin-top: 0;
@@ -473,6 +475,8 @@ footer .footer-custom-content {
   text-align: center;
   margin-bottom: 0.9375rem;
   font-family: "Times New Roman", Times, serif;
+  font-size: 0.95rem;
+  letter-spacing: 0;
 }
 
 @media (min-width: 768px) {
