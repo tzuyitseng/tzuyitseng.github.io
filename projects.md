@@ -135,7 +135,7 @@ Having recently defended my doctoral thesis (January 2025), I am actively and au
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
 <div class="news-with-pics">
   <img src="/assets/img/most-icon.png" alt="most-icon">
-  <div>[<b>2018 - 2021. Assistant & Analyst.</b> PI: <a href="https://ling.nccu.edu.tw/PageStaffing/Detail?fid=5959&id=1894" style="text-decoration:none;">I-Ping Wan</a>. <a href="https://www.nstc.gov.tw/?l=en" style="text-decoration:none;"><b>Ministry of Science and Technology</b></a> (MOST, current National Science and Technology Council) Project (MOST 107-2410-H-004-127; MOST 108-2410-H-004-098-MY2), investigated the error analysis of Thai students learning Taiwan Mandarin: a corpus-driven and cross-sectional study.
+  <div><b>2018 - 2021. Assistant & Analyst.</b> PI: <a href="https://ling.nccu.edu.tw/PageStaffing/Detail?fid=5959&id=1894" style="text-decoration:none;">I-Ping Wan</a>. <a href="https://www.nstc.gov.tw/?l=en" style="text-decoration:none;"><b>Ministry of Science and Technology</b></a> (MOST, current National Science and Technology Council) Project (MOST 107-2410-H-004-127; MOST 108-2410-H-004-098-MY2), investigated the error analysis of Thai students learning Taiwan Mandarin: a corpus-driven and cross-sectional study.
   </div>
 </div>
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
