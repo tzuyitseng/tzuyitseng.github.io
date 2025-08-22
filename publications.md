@@ -79,7 +79,7 @@ a.link-btn, a.link-btn:visited {
 <div class="publication-entry">
   <p><em>Under revision</em><br>
   <u>Tseng, T.</u>, Krzonowski, J., Brozzoli, C., Roy, A. C., & Boulenger, V. <br>
-  <b>Embodied speech: sensorimotor contributions to native and non-native language processing and learning.</b>  
+  <b>Embodied speech: sensorimotor contributions to native and non-native phoneme processing and learning.</b>  
   <em>Neurobiology of Language.</em></p>
 
   <div class="button-group">
@@ -173,3 +173,4 @@ function toggleAbstract(button) {
 
 **2023**  
 <u>Tseng, T.</u>, Krzonowski, J., Roy, A. C., Brozzoli, C., & Boulenger, V. <B>Cortical representations for native and non-native phoneme perception.</B> *5th Annual Meeting of the Society for the Neurobiology of Language (SNL 2023)*, Marseille, France.
+
