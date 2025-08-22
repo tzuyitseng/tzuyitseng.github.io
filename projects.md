@@ -107,7 +107,7 @@ Having recently defended my doctoral thesis (January 2025), I am actively and au
 
 <div class="news-with-pics">
   <img src="/assets/img/anr-icon.png" alt="anr-icon">
-  <div><b>2021 - 2025. Ph.D. student.</b> PI: <a href="http://www.ddl.cnrs.fr/boulenger" style="text-decoration:none;">Véronique Boulenger</a>. <b>ANR AchorFL (<a href="https://anr.fr/Project-ANR-19-CE28-0015" style="text-decoration:none;">ANR-19-CE28-0015</a>)</b> - Anchoring foreign language learning in the motor system, exploited embodied sensorimotor encodings of phonemes and benefits of manual gestures to enrich phonological representations in a foreign language.
+  <div><b>2021 - 2025. Ph.D. student.</b> PI: <a href="http://www.ddl.cnrs.fr/boulenger" style="text-decoration:none;">Véronique Boulenger</a>. <a href="https://anr.fr/Project-ANR-19-CE28-0015" style="text-decoration:none;"><b>ANR AchorFL</b></a> (ANR-19-CE28-0015) - Anchoring foreign language learning in the motor system, exploited embodied sensorimotor encodings of phonemes and benefits of manual gestures to enrich phonological representations in a foreign language.
   </div>
 </div>
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
