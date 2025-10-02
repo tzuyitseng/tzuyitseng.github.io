@@ -55,7 +55,7 @@ Updated news and scientific activities from 2025. More details and earlier event
 <div class="scroll-window">
 
 <li>🚨 <b>Tzuyi Tseng is currently seeking a postdoctoral position in neurolinguistics.</b> Relevant leads are most welcome.</li>
-<li>🎉 29.09.2025: Tzuyi Tseng is now an associated researcher at <a href="http://www.ddl.cnrs.fr/">laboratoire Dynamique Du Langage (DDL)</a>!</li>
+<li>🎉 29.09.2025: Tzuyi Tseng is now an associate researcher at <a href="http://www.ddl.cnrs.fr/">laboratoire Dynamique Du Langage</a> (DDL)!</li>
 <li>🚀 22.07.2025: Tzuyi Tseng's personal website is now on <a href="https://tzuyitseng.github.io/">tzuyitseng.github.io</a>!</li>
 <li>💰 20.05.2025: Tzuyi Tseng received <a href="http://www.ddl.cnrs.fr/">DDL</a> research funding to organize a <a href="https://ohbm-dic.github.io/kidsreview/2025/mandarin_session/">one-day public seminar</a> for local young children to learn about neurolinguistics as part of 2025 OHBM annual conference.</li>
 <li>🎉 21.01.2025: Tzuyi Tseng defended her doctoral thesis titled "<a href="https://hal.science/tel-04988192">Sensorimotor representations for native and non-native phoneme perception</a>"!</li>
