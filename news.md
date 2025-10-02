@@ -77,7 +77,7 @@ Updated news and scientific activities from 2025. More details and earlier event
 <hr class="gradient-divider" />
 
 <div class="scroll-window">
-<li>25.09.2025: Tzuyi gave an <b>invited talk</b> titled "Sensorimotor coding for native and non-native phoneme perception: An fMRI study" at <a href="http://www.llf.cnrs.fr/fr/linglunch_archives?page=36">LingLunch</a>, Université Paris Cité, Paris, France.</li>
+<li>25.09.2025: Tzuyi gave an <b>invited talk</b> titled "Sensorimotor coding for native and non-native phoneme perception: An fMRI study" at <a href="http://www.llf.cnrs.fr/fr/node/7845">LingLunch</a>, Université Paris Cité, Paris, France.</li>
 <li>19.02.2025: Tzuyi gave an <b>invited talk</b> titled "How does the human brain process native and non-native speech sounds?" at <a href="https://ling.nccu.edu.tw/eng/PageFront">Graduate Institute of Linguistics</a>, National Chengchi University, Taipei, Taiwan.</li>
   <div class="news-with-pics">
     <img src="/assets/img/talk_GILNCCU2025.jpg" alt="talk_GILNCCU2025">
