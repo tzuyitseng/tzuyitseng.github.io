@@ -55,6 +55,7 @@ Updated news and scientific activities from 2025. More details and earlier event
 <div class="scroll-window">
 
 <li>🚨 <b>Tzuyi Tseng is currently seeking a postdoctoral position in neurolinguistics.</b> Relevant leads are most welcome.</li>
+<li>🎉 29.09.2025: Tzuyi Tseng is now an associated researcher at <a href="http://www.ddl.cnrs.fr/">laboratoire Dynamique Du Langage (DDL)</a>!</li>
 <li>🚀 22.07.2025: Tzuyi Tseng's personal website is now on <a href="https://tzuyitseng.github.io/">tzuyitseng.github.io</a>!</li>
 <li>💰 20.05.2025: Tzuyi Tseng received <a href="http://www.ddl.cnrs.fr/">DDL</a> research funding to organize a <a href="https://ohbm-dic.github.io/kidsreview/2025/mandarin_session/">one-day public seminar</a> for local young children to learn about neurolinguistics as part of 2025 OHBM annual conference.</li>
 <li>🎉 21.01.2025: Tzuyi Tseng defended her doctoral thesis titled "<a href="https://hal.science/tel-04988192">Sensorimotor representations for native and non-native phoneme perception</a>"!</li>
@@ -76,6 +77,7 @@ Updated news and scientific activities from 2025. More details and earlier event
 <hr class="gradient-divider" />
 
 <div class="scroll-window">
+<li>25.09.2025: Tzuyi gave an <b>invited talk</b> titled "Sensorimotor coding for native and non-native phoneme perception: An fMRI study" at <a href="http://www.llf.cnrs.fr/fr/linglunch_archives?page=36">LingLunch</a>, Université Paris Cité, Paris, France.</li>
 <li>19.02.2025: Tzuyi gave an <b>invited talk</b> titled "How does the human brain process native and non-native speech sounds?" at <a href="https://ling.nccu.edu.tw/eng/PageFront">Graduate Institute of Linguistics</a>, National Chengchi University, Taipei, Taiwan.</li>
   <div class="news-with-pics">
     <img src="/assets/img/talk_GILNCCU2025.jpg" alt="talk_GILNCCU2025">
