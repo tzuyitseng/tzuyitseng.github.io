@@ -70,7 +70,7 @@ Updated news and scientific activities from 2025. More details and earlier event
 <div class="scroll-window">
   
 <li>🎉 08.10.2025: Tzuyi Tseng and collaborators' article, "Embodied speech: sensorimotor contributions to native and non-native phoneme processing and learning", has been accepted for publication in <a href="https://direct.mit.edu/nol"><em>Neurobiology of Language</em></a>! The preprint is available on both <a href="https://osf.io/preprints/psyarxiv/fqwe8"><em>PsyArXiv</em></a> and <a href="https://shs.hal.science/halshs-04836272"><em>HAL</em></a>.</li>
-<li>21.05.2025: The <a href="https://osf.io/preprints/psyarxiv/fqwe8_v3">preprint</a> of Tzuyi Tseng and collaborators' study, "Embodied speech: sensorimotor contributions to native and non-native phoneme processing and learning", received positive comments from the editor and reviewers of <a href="https://direct.mit.edu/nol"><em>Neurobiology of Language</em></a>, and is currently under revision!</li>
+<li>21.05.2025: The <a href="https://osf.io/preprints/psyarxiv/fqwe8">preprint</a> of Tzuyi Tseng and collaborators' study, "Embodied speech: sensorimotor contributions to native and non-native phoneme processing and learning", received positive comments from the editor and reviewers of <a href="https://direct.mit.edu/nol"><em>Neurobiology of Language</em></a>, and is currently under revision!</li>
 <li>12.03.2025: Tzuyi Tseng's doctoral thesis titled "<a href="https://hal.science/tel-04988192">Sensorimotor representations for native and non-native phoneme perception</a>" is now available on <a href="https://cv.hal.science/tzuyi-tseng"><em>HAL open science</em></a>!</li>
 </div>
 
