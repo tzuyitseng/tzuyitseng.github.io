@@ -69,7 +69,7 @@ Updated news and scientific activities from 2025. More details and earlier event
 
 <div class="scroll-window">
   
-<li>08.10.2025: Tzuyi Tseng and collaborators' article, "Embodied speech: sensorimotor contributions to native and non-native phoneme processing and learning", has been accepted for publication in <a href="https://direct.mit.edu/nol"><em>Neurobiology of Language</em></a>! The preprint is available on both <a href="https://osf.io/preprints/psyarxiv/fqwe8_v3">PsyArXiv</a> and <a href="https://shs.hal.science/halshs-04836272">HAL</a>.</li>
+<li>🎉 08.10.2025: Tzuyi Tseng and collaborators' article, "Embodied speech: sensorimotor contributions to native and non-native phoneme processing and learning", has been accepted for publication in <a href="https://direct.mit.edu/nol"><em>Neurobiology of Language</em></a>! The preprint is available on both <a href="https://osf.io/preprints/psyarxiv/fqwe8"><em>PsyArXiv</em></a> and <a href="https://shs.hal.science/halshs-04836272"><em>HAL</em></a>.</li>
 <li>21.05.2025: The <a href="https://osf.io/preprints/psyarxiv/fqwe8_v3">preprint</a> of Tzuyi Tseng and collaborators' study, "Embodied speech: sensorimotor contributions to native and non-native phoneme processing and learning", received positive comments from the editor and reviewers of <a href="https://direct.mit.edu/nol"><em>Neurobiology of Language</em></a>, and is currently under revision!</li>
 <li>12.03.2025: Tzuyi Tseng's doctoral thesis titled "<a href="https://hal.science/tel-04988192">Sensorimotor representations for native and non-native phoneme perception</a>" is now available on <a href="https://cv.hal.science/tzuyi-tseng"><em>HAL open science</em></a>!</li>
 </div>
@@ -78,7 +78,7 @@ Updated news and scientific activities from 2025. More details and earlier event
 <hr class="gradient-divider" />
 
 <div class="scroll-window">
-<li>25.09.2025: Tzuyi gave an <b>invited talk</b> titled "Sensorimotor coding for native and non-native phoneme perception: An fMRI study" at <a href="http://www.llf.cnrs.fr/fr/node/7845">LingLunch</a>, Université Paris Cité, Paris, France.</li>
+<li>25.09.2025: Tzuyi gave an <b>invited talk</b> titled "Sensorimotor coding for native and non-native phoneme perception: An fMRI study" at <a href="http://www.llf.cnrs.fr/fr/node/7845">LingLunch</a>, Université Paris Cité, Paris, France. <a href="https://github.com/tzuyitseng/doctoral_thesis/blob/main/LingLunch2025_TzuyiTseng.pdf">[slides]</a></li>
   <div class="news-with-pics">
     <img src="/assets/img/talk_LingLunch2025.jpg" alt="talk_LingLunch2025">
   </div>
@@ -86,7 +86,7 @@ Updated news and scientific activities from 2025. More details and earlier event
   <div class="news-with-pics">
     <img src="/assets/img/talk_GILNCCU2025.jpg" alt="talk_GILNCCU2025">
   </div>
- <li>14.02.2025: Tzuyi gave an <b>invited talk</b> titled "Sensorimotor representations of phoneme perception: an fMRI study with multivariate analyses." online for <a href="https://osf.io/sxkgq/">NeuroImaging Club</a>, CRNL, Bron, France. <a href="https://pod.inserm.fr/video/2239-neuroimaging-club-tzuyi-tseng-202502/">📽️</a></li>
+ <li>14.02.2025: Tzuyi gave an <b>invited talk</b> titled "Sensorimotor representations of phoneme perception: an fMRI study with multivariate analyses." online for <a href="https://osf.io/sxkgq/">NeuroImaging Club</a>, CRNL, Bron, France. <a href="https://pod.inserm.fr/video/2239-neuroimaging-club-tzuyi-tseng-202502/">[video]</a></li>
   <div class="news-with-pics">
     <img src="/assets/img/talk_CRNL2025.jpg" alt="talk_CRNL2025">
   </div>
