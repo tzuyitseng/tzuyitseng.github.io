@@ -84,7 +84,7 @@ a.link-btn, a.link-btn:visited {
 
   <div class="button-group">
     <a class="link-btn" href="javascript:void(0);" onclick="toggleAbstract(this)">ABS</a>
-    <a class="link-btn" href="https://shs.hal.science/halshs-04836272v3" target="_blank">PDF</a>
+    <a class="link-btn" href="https://osf.io/preprints/psyarxiv/fqwe8" target="_blank">PDF</a>
   </div>
 
   <div class="abstract-box" style="display:none;">
@@ -173,5 +173,6 @@ function toggleAbstract(button) {
 
 **2023**  
 <u>Tseng, T.</u>, Krzonowski, J., Roy, A. C., Brozzoli, C., & Boulenger, V. <B>Cortical representations for native and non-native phoneme perception.</B> *5th Annual Meeting of the Society for the Neurobiology of Language (SNL 2023)*, Marseille, France.
+
 
 
