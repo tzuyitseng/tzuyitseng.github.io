@@ -80,17 +80,13 @@ h3 {
 </style>
 
 Following my doctoral thesis denfense (January 2025), I have been proactively developing my research career. I'm always open to brainstorming new research ideas and establishing collaborations, especially within (but not limited to) my current research interests in cognitive psycho- and neurolinguistics with cross-linguistic comparison, focusing on:
-<div class="brain-section">
-  <div class="brain-text">
-    <ul class="custom-bullet-list">
+<div class="brain-section"><div class="brain-text"><ul class="custom-bullet-list">
       <li>sensorimotor representations in language processing</li>
       <li>speech processing of articulatory features</li>
       <li>prosodic encoding of emotions</li>
       <li>structure and access of the mental lexicon</li>
     </ul></div>
-  <div class="brain-image-container">
-    <img src="/assets/img/brain-icon.png" alt="brain icon">
-  </div></div>
+  <div class="brain-image-container"><img src="/assets/img/brain-icon.png" alt="brain icon"></div></div>
 <div class="brain-text">
   <p>In the next phase of my journey, I aim to explore language processing in neurodivergent populations across developmental stages, with the goal of contributing to clinical and educational applications. 
     At the same time, I seek to refine my neuroimaging skillset (e.g., 7T MRI, MEEG) to deepen investigations into the temporal and spatial dynamics of language. <br><br>
