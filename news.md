@@ -22,8 +22,8 @@ permalink: /news/
 }
 
 .news-with-pics img {
-  width: 250px;
-  height: 160px;
+  width: 300px;
+  height: 210px;
   object-fit: cover;
   border-radius: 3px;
   flex-shrink: 0;
