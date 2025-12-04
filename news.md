@@ -54,7 +54,7 @@ Updated news and scientific activities from 2025. More details and earlier event
 
 <div class="scroll-window">
 
-<li>🚨 <b>Tzuyi Tseng is currently seeking a short-term engineering position (IE/IR, –Dec 2026) in France.</b> Relevant leads are most welcome.</li>
+<li>🚨 <b>Tzuyi Tseng is currently seeking a short-term engineering position (IE/IR, until Dec 2026) in France.</b> Relevant leads are most welcome.</li>
 <li>🎉 29.09.2025: Tzuyi Tseng is now an associate researcher at Laboratoire Dynamique Du Langage <a href="http://www.ddl.cnrs.fr/">(DDL)</a>!</li>
 <li>🚀 22.07.2025: Tzuyi Tseng's personal website is now on <a href="https://tzuyitseng.github.io/">tzuyitseng.github.io</a>!</li>
 <li>💰 20.05.2025: Tzuyi Tseng received DDL research funding to organize a <a href="https://ohbm-dic.github.io/kidsreview/2025/mandarin_session/">one-day public seminar</a> for local young children to learn about neurolinguistics as part of 2025 OHBM annual conference.</li>
@@ -69,7 +69,7 @@ Updated news and scientific activities from 2025. More details and earlier event
 
 <div class="scroll-window">
   
-<li>🎉 08.10.2025: Tzuyi Tseng and collaborators' article, "Embodied speech: sensorimotor contributions to native and non-native phoneme processing and learning", has been accepted for publication in <a href="https://doi.org/10.1162/NOL.a.215"><em>Neurobiology of Language</em></a>!
+<li>🎉 08.10.2025: Tzuyi Tseng and collaborators' article, "Embodied speech: sensorimotor contributions to native and non-native phoneme processing and learning", has been accepted for publication in <a href="https://doi.org/10.1162/NOL.a.215"><em>Neurobiology of Language</em></a>! </li>
 <li>21.05.2025: The <a href="https://osf.io/preprints/psyarxiv/fqwe8">preprint</a> of Tzuyi Tseng and collaborators' study, "Embodied speech: sensorimotor contributions to native and non-native phoneme processing and learning", received positive comments from the editor and reviewers of <em>Neurobiology of Language</em>, and is currently under revision!</li>
 <li>12.03.2025: Tzuyi Tseng's doctoral thesis titled "<a href="https://hal.science/tel-04988192">Sensorimotor representations for native and non-native phoneme perception</a>" is now available on <a href="https://cv.hal.science/tzuyi-tseng"><em>HAL open science</em></a>!</li>
 </div>
