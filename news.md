@@ -22,7 +22,7 @@ permalink: /news/
 }
 
 .news-with-pics img {
-  width: 300px;
+  width: 310px;
   height: 210px;
   object-fit: cover;
   border-radius: 3px;
