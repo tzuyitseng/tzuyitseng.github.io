@@ -47,7 +47,7 @@ h3 {
   align-items: center;
   justify-content: space-between;
   gap: 1em;
-  margin-bottom: 1.5em;
+  margin-bottom: 1em;
   flex-wrap: wrap; /* Allow wrapping on smaller screens */
 }
 
@@ -56,11 +56,12 @@ h3 {
 }
 
 .brain-image-container img {
-  width: 150px;
-  height: 150px;
+  width: 130px;
+  height: 130px;
   object-fit: contain;
-  border-radius: 4px;
-  margin-top: 5px;
+  border-radius: 2px;
+  margin-top: 0px;
+  margin-bottom: 0px;
   margin-right: 20px;
 }
 
@@ -73,8 +74,8 @@ h3 {
 
   .brain-image-container {
     align-self: center; /* Center image under text */
-    margin-top: 0;
-    margin-bottom: 5px;
+    margin-top: 2px;
+    margin-bottom: 2px;
   }
 }
 </style>
