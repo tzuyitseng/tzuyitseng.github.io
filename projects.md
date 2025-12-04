@@ -60,7 +60,7 @@ h3 {
   height: 150px;
   object-fit: contain;
   border-radius: 4px;
-  margin-top: 10px;
+  margin-top: 5px;
   margin-right: 20px;
 }
 
@@ -74,7 +74,7 @@ h3 {
   .brain-image-container {
     align-self: center; /* Center image under text */
     margin-top: 0;
-    margin-bottom: 20px;
+    margin-bottom: 5px;
   }
 }
 </style>
@@ -87,13 +87,11 @@ Following my doctoral thesis denfense (January 2025), I have been proactively de
       <li>speech processing of articulatory features</li>
       <li>prosodic encoding of emotions</li>
       <li>structure and access of the mental lexicon</li>
-    </ul>
-  </div>
+    </ul></div>
   <div class="brain-image-container">
     <img src="/assets/img/brain-icon.png" alt="brain icon">
   </div>
 </div>
-
 <div class="brain-section">
   <div class="brain-text">
   <p>In the next phase of my journey, I aim to explore language processing in neurodivergent populations across developmental stages, with the goal of contributing to clinical and educational applications. 
