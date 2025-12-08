@@ -94,7 +94,7 @@ Following my doctoral thesis denfense (January 2025), I have been proactively de
     Please feel free to get in touch!</p>
 </div>
 
-### Ongoing collaborations
+### Ongoing collaborative projects
 <hr class="gradient-divider" />
 <ul class="custom-bullet-list">
   <li><B>Speech perception and hearing loss.</B> Preparing postdoctoral fellowship applications for <u>Tzuyi Tseng</u> to investigate how hearing loss influences foreign-accented speech comprehension, in collaboration with <a href="https://uol.de/biologische-psychologie/team/christiane-thiel" style="text-decoration:none;">Christiane Thiel</a> (Universität Oldenburg) and <a href="https://uol.de/en/niederlandistik/mitarbeiter/prof-dr-esther-ruigendijk" style="text-decoration:none;">Esther Ruigendijk</a> (Universität Oldenburg), Oldenburg, Germany.</li>
