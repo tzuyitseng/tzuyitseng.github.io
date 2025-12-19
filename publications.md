@@ -75,7 +75,7 @@ a.link-btn, a.link-btn:visited {
 <div class="publication-entry">
   <p><em>In preparation</em><br>
   <u>Tseng, T.</u>, Thibault, S., Krzonowski, J., Canault, M., Roy, A. C., Brozzoli, C., & Boulenger, V. <br>
-  <b>Decoding articulatory phonetic features: somatotopic and sensorimotor representations in native and non-native phoneme perception.</b>  
+  <b>Decoding articulatory phonetic features: somatotopic and sensorimotor representations in native and non-native phoneme perception.</b></p> 
 
   <div class="button-group">
     <a class="link-btn" href="javascript:void(0);" onclick="toggleAbstract(this)">ABS</a>
@@ -116,7 +116,9 @@ a.link-btn, a.link-btn:visited {
     The present study aims to provide an outline of lexical networks between sounds and meanings in Taiwan Mandarin. Both the phonological and semantic relations are explored by a free word association task. Previous research has demonstrated a significant influence of phonology on Indo-European networks and suggested the influence of semantics on languages with lexicography such as Mandarin. With a new methodology in which word frequency, syllable type, syllable structure, tone structure, imageability, and parts of speech are carefully considered for the experimental stimuli, a total of 248 responses were collected from six Taiwan Mandarin native speakers. The results of lexical associations suggest that: 1) semantic relations show a stronger connection than phonological ones in Taiwan Mandarin networks; 2) rhymes present a stronger influence on associations than initial segments. The understanding of lexical organization in the human brain may contribute to further research on functions of associations and networks between human and artificial intelligence.
   </div>
 </div>
+
 <br>
+
 ### Theses
 <hr class="gradient-divider" />
 
@@ -183,6 +185,7 @@ function toggleAbstract(button) {
 
 **2023**  
 <u>Tseng, T.</u>, Krzonowski, J., Roy, A. C., Brozzoli, C., & Boulenger, V. <B>Cortical representations for native and non-native phoneme perception.</B> *5th Annual Meeting of the Society for the Neurobiology of Language (SNL 2023)*, Marseille, France.
+
 
 
 
