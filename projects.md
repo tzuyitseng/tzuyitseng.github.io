@@ -52,7 +52,7 @@ h3 {
 }
 
 .brain-text {
-  flex: 0.5;
+  flex: 1;
 }
 
 .brain-image-container img {
