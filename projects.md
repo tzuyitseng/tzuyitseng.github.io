@@ -46,20 +46,20 @@ h3 {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  gap: 1em;
-  margin-bottom: 1em;
+  gap: 0.5em;
+  margin-bottom: 0.5em;
   flex-wrap: wrap; /* Allow wrapping on smaller screens */
 }
 
 .brain-text {
-  flex: 1;
+  flex: 0.5;
 }
 
 .brain-image-container img {
   width: 130px;
   height: 130px;
   object-fit: contain;
-  border-radius: 2px;
+  border-radius: 1px;
   margin-top: 0px;
   margin-bottom: 0px;
   margin-right: 20px;
@@ -93,6 +93,7 @@ Following my doctoral thesis denfense (January 2025), I have been proactively de
     At the same time, I seek to refine my neuroimaging skillset (e.g., 7T MRI, MEEG) to deepen investigations into the temporal and spatial dynamics of language. <br><br>
     Please feel free to get in touch!</p>
 </div>
+<br>
 
 ### Ongoing collaborative projects
 <hr class="gradient-divider" />
@@ -102,9 +103,8 @@ Following my doctoral thesis denfense (January 2025), I have been proactively de
   <li><B>Emotion in verbal speech and non-verbal vocalizations.</B> Conducting a study on cross-linguistic emotion recognition in French and Mandarin verbal phrases and non-verbal vocalizations, in collaboration with <a href="http://www.ddl.cnrs.fr/Annuaires/Index.asp?Langue=FR&Page=Aitana%20GARCIA%20ARASCO" style="text-decoration:none;">Aitana Garcia Arasco</a> (DDL & ENES), Saint-Etienne, France.</li>
   <li><B>Cross-linguistic speech emotion recognition.</B> Serving as an external collaborator on the Inidex EFL project: the grammatical encoding of expressivity and emotions, in collaboration with <a href="http://www.llf.cnrs.fr/fr/Gens/Brunetti" style="text-decoration:none;">Lisa Brunetti</a> (Université Paris Cité), with an ongoing funding application through <a href="http://www.llf.cnrs.fr" style="text-decoration:none;">Laboratoire de Linguistique Formelle</a>, Paris, France.</li>
   <li><B>Articulatory imagery in language learning.</B> Developing a new research project co-led by <u>Tzuyi Tseng</u> on articulatory imagery in foreign language learning, in collaboration with <a href="https://lnalborczyk.github.io/" style="text-decoration:none;">Ladislas Nalborczyk</a> (CNRS), Aix-en-Provence, France.</li></ul>
+<br>
 
-<br><br>
-  
 ### Past participation
 <hr class="gradient-divider" />
 
