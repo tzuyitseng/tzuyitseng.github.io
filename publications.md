@@ -72,9 +72,19 @@ a.link-btn, a.link-btn:visited {
 ### Journal articles
 <hr class="gradient-divider" />
 
-*In preparation*  
-<u>Tseng, T.</u>, Thibault, S., Krzonowski, J., Canault, M., Roy, A. C., Brozzoli, C., & Boulenger, V. <br>
-<B>Decoding articulatory phonetic features: somatotopic and sensorimotor representations in native and non-native phoneme perception.</B>
+<div class="publication-entry">
+  <p><em>In preparation</em><br>
+  <u>Tseng, T.</u>, Thibault, S., Krzonowski, J., Canault, M., Roy, A. C., Brozzoli, C., & Boulenger, V. <br>
+  <b>Decoding articulatory phonetic features: somatotopic and sensorimotor representations in native and non-native phoneme perception.</b>  
+
+  <div class="button-group">
+    <a class="link-btn" href="javascript:void(0);" onclick="toggleAbstract(this)">ABS</a>
+  </div>
+
+  <div class="abstract-box" style="display:none;">
+    Speech perception relies on the activity of both auditory and motor systems, yet the precise role of motor regions in this process remains debated, particularly across languages and under degraded conditions. We combined behavioral and fMRI approaches with multivariate pattern analyses to investigate cortical representations during native and non-native phoneme perception under clear and noisy conditions. Cross-modal classification analysis showed that under noisy conditions, the perceived articulatory features of native labial and dental consonants are mapped somatotopically in the right lip and tongue motor areas activated during phoneme production. Such representations can possibly support phoneme categorization by compensating for degraded signals. Representational similarity analysis further revealed that bilateral temporal and frontal motor regions encode phonetic features of native and non-native phonemes such as place and manner of articulation. Our findings highlight that speech perception relies on embodied sensorimotor representations encoded in the motor system, which also help decode the articulatory features within and across languages.
+  </div>
+</div>
 
 <div class="publication-entry">
   <p><em>In press</em><br>
@@ -173,6 +183,7 @@ function toggleAbstract(button) {
 
 **2023**  
 <u>Tseng, T.</u>, Krzonowski, J., Roy, A. C., Brozzoli, C., & Boulenger, V. <B>Cortical representations for native and non-native phoneme perception.</B> *5th Annual Meeting of the Society for the Neurobiology of Language (SNL 2023)*, Marseille, France.
+
 
 
 
