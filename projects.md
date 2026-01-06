@@ -52,17 +52,17 @@ h3 {
 }
 
 .brain-text {
-  flex: 1;
+  flex: 0.5;
 }
 
 .brain-image-container img {
-  width: 130px;
-  height: 130px;
+  width: 120px;
+  height: 120px;
   object-fit: contain;
   border-radius: 1px;
   margin-top: 0px;
   margin-bottom: 0px;
-  margin-right: 20px;
+  margin-right: 40px;
 }
 
 /* Responsive behavior for smaller screens such as phone*/
