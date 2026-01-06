@@ -92,7 +92,7 @@ Following my doctoral thesis denfense (January 2025), I have been proactively de
   <p>In the next phase of my journey, I aim to explore language processing in neurodivergent populations across developmental stages, with the goal of contributing to clinical and educational applications. 
     At the same time, I seek to refine my neuroimaging skillset (e.g., 7T MRI, MEEG) to deepen investigations into the temporal and spatial dynamics of language. <br><br>
     Please feel free to get in touch!</p>
-</div>
+</div><br>
 
 ### Ongoing collaborations
 <hr class="gradient-divider" />
