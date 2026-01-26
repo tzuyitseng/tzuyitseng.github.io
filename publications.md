@@ -87,10 +87,10 @@ a.link-btn, a.link-btn:visited {
 </div>
 
 <div class="publication-entry">
-  <p><em>In press</em><br>
+  <p>2026<br>
   <u>Tseng, T.</u>, Krzonowski, J., Brozzoli, C., Roy, A. C., & Boulenger, V. <br>
   <b>Embodied speech: sensorimotor contributions to native and non-native phoneme processing and learning.</b>  
-  <em>Neurobiology of Language.</em></p>
+  <em>Neurobiology of Language, 7</em>, NOL.a.215.</p>
 
   <div class="button-group">
     <a class="link-btn" href="javascript:void(0);" onclick="toggleAbstract(this)">ABS</a>
@@ -98,7 +98,7 @@ a.link-btn, a.link-btn:visited {
   </div>
 
   <div class="abstract-box" style="display:none;">
-    Learning to recognize and produce foreign speech sounds can be challenging, particularly when only subtle differences distinguish these new sounds from phonemes in the native language. Functional neuroimaging evidence shows that the motor cortex is involved in speech production and in perceptual phonemic processing. This highlights the embodied nature of speech perception, predicting the potential benefits of sensorimotor-based training approaches to enhance the acquisition of foreign speech sounds. Hence, here we first review current findings on the motor contribution to not only native but also non-native phoneme perception. Available evidence has established that motor cortical activity especially shows up under non-optimal perceptual conditions, such as when native phonemes are degraded by noise or when listeners perceive non-native speech sounds. Drawing upon this evidence, we then review training paradigms that have been developed for learning foreign phonemes, with a special emphasis on those embedding manual gestures as cues to represent phonetic features of the to-be-learned speech sounds. By pointing to both strengths and caveats of available studies, this review allows us to delineate a clear framework and opens perspectives to optimize foreign phoneme learning, and ultimately support perception and production.
+    Learning to recognize and produce foreign speech sounds can be challenging, particularly when only subtle differences distinguish these new sounds from phonemes in the native language. Functional neuroimaging evidence shows that the motor cortex is involved in speech production and in perceptual phonemic processing. This highlights the embodied nature of speech perception, predicting the potential benefits of sensorimotor-based training approaches to enhance the acquisition of foreign speech sounds. Hence, here we first review current findings on the motor contribution to not only native but also non-native phoneme perception. Available evidence has established that motor cortical activity especially shows up under non-optimal perceptual conditions, such as when native phonemes are degraded by noise or when listeners perceive non-native speech sounds. Drawing upon this evidence, we then review training paradigms that have been developed for learning foreign phonemes, with a special emphasis on those embedding manual gestures as cues to represent phonetic features of the to-be-learned speech sounds. By pointing to both strengths and caveats of available studies, this review allows to delineate a clear framework and opens perspectives to optimize foreign phoneme learning, and ultimately support perception and production.
   </div>
 </div>
 
@@ -185,6 +185,7 @@ function toggleAbstract(button) {
 
 **2023**  
 <u>Tseng, T.</u>, Krzonowski, J., Roy, A. C., Brozzoli, C., & Boulenger, V. <B>Cortical representations for native and non-native phoneme perception.</B> *5th Annual Meeting of the Society for the Neurobiology of Language (SNL 2023)*, Marseille, France.
+
 
 
 
