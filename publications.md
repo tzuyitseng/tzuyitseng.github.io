@@ -75,7 +75,7 @@ a.link-btn, a.link-btn:visited {
 <div class="publication-entry">
   <p><em>preprint</em><br>
   <u>Tseng, T.</u>, Thibault, S., Krzonowski, J., Canault, M., Roy, A. C., Brozzoli, C., & Boulenger, V. <br>
-  <b>Decoding articulatory phonetic features: somatotopic and sensorimotor representations in native and non-native phoneme perception.</b></p> 
+  <b>Decoding phonetic features: Somatotopic and sensorimotor representations in native and non-native consonant perception.</b></p> 
 
 <div class="button-group">
     <a class="link-btn" href="javascript:void(0);" onclick="toggleAbstract(this)">ABS</a>
@@ -186,6 +186,7 @@ function toggleAbstract(button) {
 
 **2023**  
 <u>Tseng, T.</u>, Krzonowski, J., Roy, A. C., Brozzoli, C., & Boulenger, V. <B>Cortical representations for native and non-native phoneme perception.</B> *5th Annual Meeting of the Society for the Neurobiology of Language (SNL 2023)*, Marseille, France.
+
 
 
 
