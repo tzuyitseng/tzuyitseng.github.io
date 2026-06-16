@@ -54,7 +54,7 @@ Updated news and scientific activities from 2025. More details and earlier event
 
 <div class="scroll-window">
 
-<li>🚨 <b>Tzuyi Tseng is currently seeking a short-term postdoc/engineering position (until Dec 2026) in France.</b> Relevant leads are most welcome.</li>
+<li>💡 15.06.2026: Tzuyi Tseng starts her new ingénieur de recherche/postdoc position at Laboratoire Éco-anthropologie in Paris, France.</li>
 <li>🎉 22.01.2026: Tzuyi Tseng and collaborators' article, "Embodied speech: sensorimotor contributions to native and non-native phoneme processing and learning", is now published in <a href="https://doi.org/10.1162/NOL.a.215"><em>Neurobiology of Language</em></a>! </li>
 <li>🎉 29.09.2025: Tzuyi Tseng is now an associate researcher at Laboratoire Dynamique Du Langage <a href="http://www.ddl.cnrs.fr/">(DDL)</a>!</li>
 <li>🚀 22.07.2025: Tzuyi Tseng's personal website is now on <a href="https://tzuyitseng.github.io/">tzuyitseng.github.io</a>!</li>
