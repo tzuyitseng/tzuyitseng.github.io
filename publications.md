@@ -76,7 +76,7 @@ a.link-btn, a.link-btn:visited {
   <p><em>preprint</em><br>
   <u>Tseng, T.</u>, Thibault, S., Krzonowski, J., Canault, M., Roy, A. C., Brozzoli, C., & Boulenger, V. <br>
   <b>Decoding phonetic features: Somatotopic and sensorimotor representations in native and non-native consonant perception.</b>
-  under review in <em>iScience</em> (ISCIENCE-D-26-07134R1)</p> 
+  <em>Under review in iScience (ISCIENCE-D-26-07134R1)</em></p> 
 
 <div class="button-group">
     <a class="link-btn" href="javascript:void(0);" onclick="toggleAbstract(this)">ABS</a>
