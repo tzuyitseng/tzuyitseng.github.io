@@ -75,15 +75,16 @@ a.link-btn, a.link-btn:visited {
 <div class="publication-entry">
   <p><em>preprint</em><br>
   <u>Tseng, T.</u>, Thibault, S., Krzonowski, J., Canault, M., Roy, A. C., Brozzoli, C., & Boulenger, V. <br>
-  <b>Decoding phonetic features: Somatotopic and sensorimotor representations in native and non-native consonant perception.</b></p> 
+  <b>Decoding phonetic features: Somatotopic and sensorimotor representations in native and non-native consonant perception.</b>
+  under review in <em>iScience</em> (ISCIENCE-D-26-07134R1)</p> 
 
 <div class="button-group">
     <a class="link-btn" href="javascript:void(0);" onclick="toggleAbstract(this)">ABS</a>
-    <a class="link-btn" href="https://www.biorxiv.org/content/10.64898/2026.03.06.709780" target="_blank">PDF</a>
+    <a class="link-btn" href="https://www.biorxiv.org/content/10.64898/2026.03.06.709780v2.abstract" target="_blank">PDF</a>
   </div>
 
   <div class="abstract-box" style="display:none;">
-    Speech perception relies on the integration of auditory and articulatory information, yet the precise role of motor regions remains debated. Cross-linguistic approaches and challenging listening situations can help fill this gap. We combined behavioral measures and fMRI with multivariate pattern analyses to investigate cortical representations of native French and non-native Mandarin consonant perception under clear and noisy conditions. Cross-modal classification analysis showed that articulatory features of degraded native labial and dental consonants are mapped somatotopically in right lip and tongue motor areas, regions also activated during consonant production. These representations may support phoneme categorization by compensating for degraded input. Representational similarity analysis further revealed that a network encompassing bilateral temporal and frontal motor regions encodes phonetic features of native and non-native consonants, including place and manner of articulation. Our findings highlight that speech perception relies on embodied sensorimotor representations, which contribute to decoding phonetic features both within and across languages.
+    Speech perception relies on the integration of auditory and articulatory information, yet the precise role of motor regions remains debated. We combined fMRI with multivariate pattern analyses (MVPA) and behavioral measures to investigate cortical representations of native French and non-native Mandarin consonant perception under clear and noisy conditions. Cross-modal classification analysis showed that articulator-specific features of perceived degraded native bilabial and dental consonants are mapped somatotopically in right lip and tongue motor areas, which are also engaged in consonant production. These representations may support consonant categorization by compensating for degraded auditory input. Representational similarity analysis further revealed that a network encompassing bilateral temporal auditory and frontal motor regions encodes phonetic features, including place and manner of articulation, for both native and non-native consonants. Our findings demonstrate that speech perception is inherently sensorimotor and that motor regions support both low-level embodied articulator-specific mapping and higher-level phonetic feature representations.
   </div>
 </div>
 
